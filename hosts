@@ -1,4 +1,11 @@
-#+BEGIN
+http://#Facebook
+http://23.213.58.87
+http://23.213.58.87
+http://184.28.188.154
+http://184.28.188.154
+http://31.13.70.81
+http://31.13.70.81
+http://#+BEGIN
 #+UPDATE_TIME 2014-11-26 14:12:00
 #+MESSAGE
 #######################################################################
@@ -6597,4 +6604,1986 @@
 204.236.220.7	dl-client999.dropbox.com
 #Dropbox END
 
-#+END
+#+END31.13.70.81
+http://173.252.103.12
+http://31.13.70.81
+http://31.13.70.81
+http://31.13.70.81
+http://31.13.70.1
+http://108.166.120.82
+http://31.13.70.1
+http://31.13.70.1
+http://173.252.120.6
+http://173.252.120.6
+http://31.13.70.81
+http://165.254.42.232
+http://173.252.71.184
+http://184.28.188.240
+http://184.28.188.152
+http://184.28.188.154
+http://184.28.188.171
+http://184.28.188.171
+http://184.28.188.153
+http://184.28.188.153
+http://184.28.188.171
+http://184.28.188.146
+http://184.28.188.171
+http://173.252.120.6
+http://184.28.188.153
+http://184.28.188.153
+http://184.28.188.153
+http://31.13.70.65
+http://31.13.70.81
+http://static.ak.fbcdn.net
+http://static.ak.fbcdn.net
+http://static.ak.fbcdn.net
+http://static.ak.fbcdn.net
+http://static.ak.fbcdn.net
+http://static.ak.fbcdn.net
+http://static.ak.fbcdn.net
+http://static.ak.fbcdn.net
+http://69.171.246.7
+http://static.ak.fbcdn.net
+http://69.171.235.9
+http://static.ak.fbcdn.net
+http://static.ak.fbcdn.net
+http://69.171.246.16
+http://69.171.246.17
+http://69.171.246.18#+BEGIN
+#+UPDATE_TIME 2014-11-26 14:12:00
+#+MESSAGE
+#######################################################################
+#
+#  imouto.host
+#
+#  主页：https://plus.google.com/100484131192950935968/about
+#  社群：https://plus.google.com/communities/111265655058678013030
+#  GitHub：https://github.com/zxdrive/imouto.host
+#  部署hosts文件前请注意文本编码和换行符格式，请勿直接对文件进行覆盖。
+#  错误报告前请尝试更新到最新版本，不接受老版本的错误报告。
+#
+#  #Ver : 2.27.0535 Teirureddo
+#  #Update Time : 2014.11.26;14:12
+#  #Fix & Bug : 
+#  # 2.27.0535: 新看板娘：红马尾(Teirureddo)。
+#  # 2.26.0534: Dropbox已失效。
+#  # 2.26.0533: 修复Google服务。
+#  # 2.25.0530: 修复Google服务，暂停Youtube服务支持。
+#  # 2.24.0528: 新增Twitter域名。
+#  # 2.24.0527: 新增若干谷歌域名。
+#  # 2.24.0526: 支持imgur，感谢GitHub网友wenketel。
+#  # 2.24.0525: 修复谷歌服务。
+#  # 2.24.0524: 修复谷歌服务。
+#  # 2.23.0522: 尝试修复Youtube，若速度慢或出现意外务必淡定，感谢网友Arterial Ra、Jack YouOSX。
+#  # 2.22.0520: 修复Google Feed。
+#  # 2.22.0519: 修复谷歌服务。
+#  # 2.22.0518: 修复谷歌服务。
+#  # 2.21.0516: 修复DuckDuckGo。
+#  # 2.21.0515: 修复Gmail联系人。
+#  # 2.21.0514: 尝试修复环聊图片。
+#  # 2.21.0513: 尝试修复环聊图片。
+#  # 2.20.0511: 补充数个谷歌域名，感谢GitHub网友LGA1150。
+#  # 2.20.0510: 修复谷歌服务。
+#  # 2.19.0509: 补充数个谷歌域名。
+#  # 2.19.0507: 修复Facebook。
+#  # 2.18.0505: 尝试加速谷歌服务。
+#  # 2.18.0503: 格式梳理，提升可读性。
+#  # 2.18.0502: 支持feedly。
+#  # 2.18.0501: 尝试加速G+、Gmail等。
+#  # 2.17.0498: 修复Ixquick，Startpage，GreatFire，感谢GitHub网友wenketel。
+#  # 2.17.0495: 修复和尝试加速谷歌图床，感谢GitHub网友wenketel。
+#  # 2.17.0493: 补充Flickr域名，感谢网友Jack YouOSX。
+#  # 2.17.0492: 加速DuckDuckGo，感谢GitHub网友wenketel。
+#  # 2.17.0491: 增加play.golang.org映射，感谢GitHub网友ljyf5593。
+#  # 2.17.0490: 补充数个谷歌域名，感谢网友Pluto Hades。
+#  # 2.17.0489: 修复FlipBoard，感谢网友Lee Chieh Chan。
+#  # 2.16.0488: 修复DuckDuckGo，感谢网友Christin Chow、Jack YouOSX。
+#  # 2.16.0487: 修复数个格式问题，感谢网友u yao。
+#  # 2.16.0486: 修复数个谷歌域名，感谢网友Jack YouOSX、Arterial Ra。
+#  # 2.16.0485: 尝试解决Google流量劣化，但效果不佳，目前电信用户访问谷歌服务可能较为困难。
+#  # 2.16.0484: 修复Flickr。
+#  # 2.16.0483: 更新Youtube域名，感谢网友Jack YouOSX。
+#  # 2.16.0482: 更新Youtube域名，感谢网友Jack YouOSX。
+#  # 2.16.0481: 新看板娘：朝田诗乃(Asata Shino)。
+#  # 2.15.0480: 尝试修复Dropbox移动客户端。
+#  # 2.15.0479: 其它BUG修正。
+#  # 2.14.0478: 补充广告屏蔽。
+#  # 2.14.0477: 尝试修复Dropbox移动客户端。
+#  # 2.14.0476: 修复谷歌硬盘。
+#  # 2.13.0475: 尝试加速维基百科。
+#  # 2.13.0475: 其它谷歌域名修复和补充。
+#  # 2.13.0475: 修复谷歌开发者，感谢网友Arterial Ra。
+#  # 2.13.0475: 修复大部分Youtube视频，感谢网友Jack YouOSX。
+#  # 2.13.0475: 补充谷歌硬盘域名，感谢网友Jack YouOSX。
+#  # 2.13.0475: 尝试加速谷歌硬盘。
+#  # 2.12.0471: 尝试补充谷歌硬盘域名，未经完整测试。
+#  # 2.12.0471: 修复Google服务，少量BUG修正。
+#  # 2.11.0468: 两个文件合并。
+#  # 2.11.0468: 少量BUG修正。
+#  # 2.10.0466: 修复Google服务。
+#  # 2.09.0463: 修复Google+。
+#  # 2.08.0462: 修复Google服务。
+#  # 2.07.0458: 修复Google服务。
+#  # 2.06.0457: 其它BUG修正。
+#  # 2.06.0457: 尝试修复Chrome远程桌面，感谢网友诸葛氧气。
+#  # 2.05.0453: 其它BUG修正。
+#  # 2.05.0453: 加速维基百科。
+#  # 2.05.0453: 修复Facebook移动版。
+#  # 2.04.0450: 尝试修复Dropbox。
+#  # 2.03.0449: 其它BUG修正。
+#  # 2.03.0449: 尝试彻底修复环聊。
+#  # 2.03.0449: 修复Youtube（依然不能看片别做梦了）。
+#  # 2.02.0446: 新看板娘：佐仓千代(Sakura Chiyo)。
+#  # 2.02.0446: 修复和加速各种Google服务。
+#  # 2.01.0442: 修复和加速各种Google服务。
+#  # 1.94.0440: 修复Chrome压缩服务，未测试，感谢网友Yiwen Zhang。
+#  # 1.93.0439: 修复各种Google服务。
+#  # 1.92.0437: 修复各种Google服务。
+#  # 1.91.0433: 实验性修复Google Play失败，重新屏蔽。
+#  # 1.90.0432: 实验性修复Google Play，未经测试，很可能无法使用。
+#  # 1.90.0432: 尝试修复Android服务。
+#  # 1.89.0430: 尝试加速Google图床。
+#  # 1.88.0429: 修复Chrome远程桌面。
+#  # 1.87.0424: 修复Dropbox，感谢网友DuckDuckGo。
+#  # 1.87.0424: 修复ProjectH的DNS投毒部分，但ProjectH仍有关键字拦截的问题。
+#  # 1.86.0422: 整理了部分AdBlock。
+#  # 1.85.0421: 尝试稳定OneDrive，感谢网友DuckDuckGo。
+#  # 1.85.0421: 尝试修复谷歌街景，未测试，感谢网友Xiaoyu Tai 。
+#  # 1.85.0421: Google大提速。
+#  # 1.84.0418: 修复Box.com。
+#  # 1.83.0417: 尝试修复OneDrive，但效果不佳。
+#  # 1.82.0416: 新看板娘：香风智乃(Kafuu Chino)。
+#  # 1.81.0415: 修复www.google.com。
+#  # 1.80.0414: 提升可读性。
+#  # 1.80.0414: 尝试修复Google服务。
+#  # 1.79.0408: 修复Dropbox。
+#  # 1.79.0408: 尝试修复Android GooglePlus。
+#  # 1.78.0404: 修复Twitter。
+#  # 1.78.0404: 修复Android服务。
+#  # 1.78.0404: 修复百度。
+#  # 1.77.0392: 修复Gmail图片。
+#  # 1.76.0390: 修复Dropbox。
+#  # 1.75.0389: 修复Dropbox。
+#  # 1.74.0384: 修复Google图片搜索。
+#  # 1.73.0383: 修复Google服务。
+#  # 1.72.0376: 尝试加速Google服务。未经完整测试，有BUG请淡定。
+#  # 1.72.0376: 修复Google Keep。
+#  # 1.71.0374: 修复Google Play。
+#  # 1.70.0373: 修复部分Google服务。
+#  # 1.69.0372: 修复Google Drive客户端。
+#  # 1.68.0371: 修复Google Play。
+#  # 1.67.0370: 修复Google Play。
+#  # 1.66.0369: 修复部分谷歌服务。
+#  # 1.65.0367: 新增GitHub支持。
+#  # 1.65.0367: 修复部分谷歌服务。
+#  # 1.65.0367: 更换谷歌台湾数据中心IP。
+#  # 1.64.0364: 全面启用谷歌新西兰和欧洲数据中心IP。请注意此版本并非稳定版本，未经充分测试，速度较慢，且部分服务仍然受限，仅供恶心功夫网用。
+#  # 1.56.0287: 修复谷歌登录界面。
+#  # 1.55.0286: 尝试修复谷歌服务。
+#  # 1.54.0266: 尝试修复谷歌服务。
+#  # 1.53.0264: 纪念。
+#  # 1.53.0264: 尝试修复谷歌服务。
+#  # 1.52.0194: 尝试稳定谷歌硬盘。
+#  # 1.51.0193: 修复谷歌远程桌面。
+#  # 1.50.0192: 加速维基百科。
+#  # 1.50.0192: 加速各类谷歌服务。
+#  # 1.49.0190: 其它细节修复。
+#  # 1.49.0190: 支持喷嚏网。
+#  # 1.49.0190: 加速Dropbox，感谢Project H论坛网友：forme。
+#  # 1.49.0190: 尝试提高Youtube兼容性，并未进行测试；这不代表Youtube可以正常访问。
+#  # 1.49.0190: 尝试加速谷歌图床，但说实话效果不佳，详细原因比较复杂此处不表。
+#  # 1.49.0190: 修复Android推送。
+#  # 1.48.0183: 修改格式为Project H友好格式，从此版本起在Project H上同步更新。
+#  # 1.48.0183: 添加并修正Facebook部分域名，但因为条件有限所有功能并未做完整测试。
+#  # 1.48.0183: 屏蔽3DM。
+#  # 1.47.0180: 支持谷歌图书。
+#  # 1.46.0179: 加速谷歌地图Android版。
+#  # 1.45.0178: 修复Gmail联系人和邮件图片。
+#  # 1.44.0176: 加速www.google.com。
+#  # 1.43.0175: 修复Facebook某些图片。
+#  # 1.43.0175: 加速Google Plus、Google Play、环聊等。
+#  # 1.42.0173: 尝试修复Google Drive。
+#  # 1.40.0171: 新看板娘：缪雪儿·佛兰(Myuseru foaran)。
+#  # 1.40.0171: 能用的家伙都使出来了，Google服务的速度和稳定几乎达到了最平衡，方大爷我想歇一会你就成全我吧。
+#  # 1.40.0171: 我一天更新了5个版本你造吗？
+#  # 1.37.0167: 尝试修复Google Drive。
+#  # 1.37.0167: 尝试加速Google Plus。
+#  # 1.36.0165: 尝试加速谷歌账户鉴权。
+#  # 1.35.0164: 尝试加速维基百科。
+#  # 1.34.0163: 默认编码更改为UTF8。
+#  # 1.34.0163: 尝试稳定谷歌服务。
+#  # 1.33.0161: 根据反馈，减少谷歌北京服务器的使用，以尝试稳定谷歌服务。
+#  # 1.32.0158: 新增BN更新加速，用于外服玩家加速更新，默认关闭，如果你不知道这是什么请勿开启。
+#  # 1.32.0158: 尝试稳定环聊。
+#  # 1.31.0157: 新看板娘：夜夜(Yaya)。
+#  # 1.31.0157: 尝试修复环聊WEB版。
+#  # 1.30.0155: 尝试加强Google服务稳定性和速度，大面积启用谷歌台湾及东南亚等地区的数据中心IP。因更新内容较多，尚未完全测试，欢迎大家及时上报BUG。
+#  # 1.29.0148: 加速12306。
+#  # 1.29.0148: 鉴于已经可以通过某些不可靠的方式播放Youtube视频，Youtube条目再次加入，目前可以浏览网页，播放视频仍需搭配其它方案。
+#  # 1.29.0148: 修复一些Google服务。
+#  # 1.29.0148: 再次取消GooglePlay加速，以解决频繁发生的GooglePlay故障。
+#  # 1.28.0145: 解封3DM。
+#  # 1.27.0144: 修复维基百科。
+#  # 1.26.0143: 尝试让云端硬盘和谷歌地图等服务更稳定。
+#  # 1.25.0142: 修复谷歌账户登入用域名。
+#  # 1.25.0142: 紧急修复部分Google域名的403错误。
+#  # 1.23.0139: 修复部分谷歌IP，这次修复时意外发现部分谷歌IP解封了。
+#  # 1.23.0139: 修复PC版和移动版云端硬盘客户端。
+#  # 1.23.0139: 修复Dropbox。
+#  # 1.22.0133: 新看板娘：艾·亚斯汀(Ai Asutin)。
+#  # 1.22.0132: 某些原本就无法正常下载的APP无法从Google Play加速受益，仍需通过VPN等方式进行下载。原因是Google Play下载APP并未使用SSL加密。
+#  # 1.22.0132: 重开Google Play加速，修复了某些原本就无法正常下载的APP在加速后即使挂上VPN也无法下载的BUG。总体速度略低于之前带有BUG的加速模式，但相比未加速前有巨幅提升。
+#  # 1.21.0130: 屏蔽Google Play加速，以解决某些原本就无法正常下载的APP在加速后即使挂上VPN也无法下载的BUG。
+#  # 1.20.0129: 新看板娘提名征集中。
+#  # 1.20.0129: 尝试加速Google Play，未经完整测试，可能会出现无法下载某个APP的情况（即使挂上VPN后），欢迎及时上报BUG。
+#  # 1.20.0129: 推特可用的一个服务器应该是被推特自己关闭了，目前解除了对推特的支持，等待新IP出现。
+#  # 1.20.0129: 修复了屏蔽淘宝广告同时也屏蔽了正常链接的问题。
+#  # 1.19.0126: 解除淘宝客广告链接的封锁，因为封锁淘宝客会造成一淘返利链接失效。
+#  # 1.18.0125: 针对Android平台作出大量修复，受到增益的APP包括但不限于：Facebook、Twitter和GMS。
+#  # 1.17.121: 修复Google Map。
+#  # 1.16.120: 修复了一个可能造成GooglePlus Android不正常的BUG。
+#  # 1.15.119: 新增封锁了大量广告（被一个布满了广告的页面坑了五六兆流量，怀恨在心）（未进行完全测试，请大家及时上报BUG）。
+#  # 1.15.119: 微调了部分谷歌服务IP。
+#  # 1.14.116: 修复inoreader。
+#  # 1.13.115: Twitter Web版（含移动Web）解封，移动客户端尝试解封（尚未测试），感谢Smarthosts。Facebook移动客户端确认稳定运行。
+#  # 1.12.114: 尝试继续完善Facebook。
+#  # 1.11.112: Facebook部分解封，但仍有部分功能无法在墙内使用，例如上传图片。Twitter暂时解封不能。
+#  # 1.10.110: 新看板娘：时崎狂三(Tokisaki Kurumi)。
+#  # 1.10.110: 其它少量BUG修复。
+#  # 1.10.110: 修复谷歌部分服务器证书问题。
+#  # 1.10.110: 大部分常用非敏感谷歌服务全面启用谷歌北京数据中心，速度巨幅提升，谷歌地图可实现路线秒搜。
+#  # 1.06.106: 维基百科全面解封；启用荷兰服务器，速度较慢，但很稳定。
+#  # 1.05.104: 修复Flickr。
+#  # 1.04.103: 修复Twitter和GoogleUser的一些BUG。
+#  # 1.03.102: 修复chromium.org。
+#  # 1.03.101: 版本号重新设计，以方便版本管理。
+#  # 1.03.101: Twitter回归。
+#  # 1.2.5: 修复Facebook。
+#  # 1.2.4: 重启Android加速失败，版本退回。
+#  # 1.2.3: 尝试重启Android加速。
+#  # 1.2.1: 修复Play商店中APP预览图无法显示的问题，原因是证书与服务器不符。
+#  # 1.2.0: 四糸乃我爱你啊（prpr
+#  # 1.1.5: 对了，该换看板娘了。
+#  # 1.1.5: 因为GFW长时间没更新，所以我对GFW发出了深深的鄙视，并在没有做任何实质性修改的情况下对imouto.host的版本号进行了更新。
+#  # 1.1.3: 谷歌地图 For Android位置设置偶尔不可用，原因未知。
+#  # 1.1.3: 暂时屏蔽Wikipedia。
+#  # 1.1.2: 修复Facebook移动版。
+#  # 1.1.1: 维护者博客搬家，加入维护者博客IP相关地址。
+#  # 1.1.1: 继续修复WordPress.com。
+#  # 1.1.0: 新增WordPress.com支持。
+#  # 1.0.9: 修复Facebook上传。
+#  # 1.0.8: 修复Dropbox。
+#  # 1.0.7: 庆祝苹果在中国大陆部署CDN，苹果相关Host条目全部删除，Host本体大精简！
+#  # 1.0.6: 修复Facebook头像。
+#  # 1.0.5: 修复Ingress，添加若干Google域名。
+#  # 1.0.4: 修复Ingress。
+#  # 1.0.3: 切换谷歌数据中心IP为新加坡数据中心，修复中国华北地区谷歌服务缓慢问题。
+#  # 1.0.2: 加速GoogleMap For Android。
+#  # 1.0.1: 修复GTalk For Android。
+#  # 1.0.0: 我是幼驯染党。
+#  # 1.0.0: 切换谷歌数据中心IP为马来西亚吉隆坡数据中心，谷歌服务速度巨幅提升。
+#  # 1.0.0: 添加若干谷歌域名。
+#  # 1.0.0: 修复Facebook Web版。
+#  # 0.9.9: 添加了一个云端硬盘域名。
+#  # 0.9.8: BUG修复。
+#  # 0.9.7: BUG修复，Facebook Web版速度略微提升。
+#  # 0.9.6: 加速www.google.com。
+#  # 0.9.5: BUG修复。
+#  # 0.9.4: 加速Chrome翻译Api。
+#  # 0.9.4: 加速谷歌地图Api，Ingress Intel Map稳定性大幅提升。
+#  # 0.9.2: 支援Ingress。
+#  # 0.9.1: 修复www.google.com。
+#  # 0.9.0: Facebook加速。
+#  # 0.8.9: 谷歌图片服务器稳定性加强。
+#  # 0.8.8: Filpboard内Google+修复。
+#  # 0.8.7: BUG修复。
+#  # 0.8.6: BUG修复。
+#  # 0.8.5: 大幅提升host文件可读性。
+#  # 0.8.5: 云端硬盘 for Android复活！
+#  # 0.8.5: gReader故障修复。
+#  # 0.8.5: Filpboard内Google+图片无法显示，原因未知。
+#  # 0.8.3: 大量BUG修复。
+#  # 0.8.2: 大量BUG修复。
+#  # 0.8.1: 大量BUG修复。
+#  # 0.8.0: Android各项Google服务仍然不稳定，云端硬盘客户端由于未知的原因甚至翻墙后亦无法使用。
+#  # 0.8.0: Android各项Google服务请尝试使用Web客户端或第三方客户端，如ES文件浏览器和钛备份内置云端硬盘同步功能均正常。
+#  # 0.8.0: 添加Facebook APPs域名，解封Facebook游戏。
+#  # 0.8.0: Facebook for Android 2.X版客户端仍不稳定，请尝试使用1.X版客户端或Web版客户端。
+#
+#  #看板娘 : 
+#  # 2.27.0535: 红马尾(Teirureddo)，《我，要成为双马尾》
+#  # 2.16.0481: 朝田诗乃(Asata Shino)，《刀剑神域》
+#  # 2.02.0446: 佐仓千代(Sakura Chiyo)，《月刊少女野崎君》
+#  # 1.82.0416: 香风智乃(Kafuu Chino)，《请问您今天要来点兔子吗？》
+#  # 1.40.0171: 缪雪儿·佛兰(Myuseru foaran)，《萌萌侵略者》
+#  # 1.31.0157: 夜夜(Yaya)，《机巧少女不会受伤》
+#  # 1.22.0133: 艾·亚斯汀(Ai Asutin)，《神不在的星期天》
+#  # 1.10.110: 时崎狂三(Tokisaki Kurumi)，《DATE·A·LIVE》
+#  # 1.2.0: 四糸乃(Yoshino)，《DATE·A·LIVE》
+#  # 1.0.0: 春咲千和(Harusaki Chiwa)，《我女友与青梅竹马的惨烈修罗场》
+#  # 0.8.0: 小鸟游六花(Takanashi Rikka)，《中二病也要谈恋爱！》
+#
+#  #捐助者（按时间排序） : 
+#  #每个星号代表1字节，括号内金额为扣除手续费后的实际到账金额。
+#  #若捐助者提出要求，我可以在这里完整或部分显示捐助者信息，但请捐助者注意身份泄露问题。
+#  #imouto.host捐助用PayPal收款账户：moe@love.com
+#  # 2014.06.29: 张**，************@gmail.com，USD 5.00 (4.50)
+#  # 2014.06.30: 陈**，********@gmail.com，USD 2.00 (1.62)
+#  # 2014.07.02: 毛****，**********@***.com，USD 10.00 (9.31)
+#  # 2014.07.14: ******* Chen，*******5@**.com，USD 20.00 (18.92)
+#  # 2014.07.14: Zhang *********，****@*****.co.jp，USD 2.33 (1.94)
+#  # 2014.08.06: GONG ******，g******@***********.net，USD 30.00 (28.53)
+#  # 2014.08.13: Hu ********，*************@gmail.com，USD 15.00 (14.11)
+#  # 2014.08.27: 刘****，*********@*******.org，USD 25.00 (23.72)
+#  # 2014.10.24: 陈****，***********@gmail.com，USD 1.97 (1.59)
+#  # 2014.10.25: Liu ****，***********@gmail.com，USD 1.00 (0.66)
+#  # 2014.10.31: yu ***，*********@hotmail.com，USD 10.00 (9.31)
+#
+#  #特别鸣谢（按首字母排序） : 
+#  # H** ***o
+#  # P****** ***o
+#
+#  数据来源于互联网上的无名英雄们
+#  捐助来自于互联网自由的支持者们
+#  感谢他们！
+#
+#######################################################################
+#+MESSAGE_END
+
+#localhost START
+127.0.0.1	localhost
+::1	localhost
+#localhost END
+
+#AdBlock START
+127.0.0.1	1.allyes.com.cn
+127.0.0.1	86file.megajoy.com
+127.0.0.1	86get.joy.cn
+127.0.0.1	86log.joy.cn
+127.0.0.1	Fvid.atm.youku.com
+127.0.0.1	a-ads.com
+127.0.0.1	a.admob.com
+127.0.0.1	a.baidu.com
+127.0.0.1	a.cctv.com
+127.0.0.1	a.cntv.cn
+127.0.0.1	ac.atpanel.com
+127.0.0.1	acs.56.com
+127.0.0.1	acs.agent.56.com
+127.0.0.1	acs.agent.v-56.com
+127.0.0.1	ad-411.com
+127.0.0.1	ad-apac.doubleclick.net
+127.0.0.1	ad-apac.doubleclick.net
+127.0.0.1	ad-balancer.net
+127.0.0.1	ad-clicks.com
+127.0.0.1	ad-delivery.net
+127.0.0.1	ad-emea.doubleclick.net
+127.0.0.1	ad-emea.doubleclick.net
+127.0.0.1	ad-feeds.com
+127.0.0.1	ad-flow.com
+127.0.0.1	ad-g.doubleclick.net
+127.0.0.1	ad-gbn.com
+127.0.0.1	ad-indicator.com
+127.0.0.1	ad-plus.cn
+127.0.0.1	ad-server.co.za
+127.0.0.1	ad-serverparc.nl
+127.0.0.1	ad-sponsor.com
+127.0.0.1	ad-srv.net
+127.0.0.1	ad-u.com
+127.0.0.1	ad-vice.biz
+127.0.0.1	ad-yt-bfp.doubleclick.net
+127.0.0.1	ad.103092804.com
+127.0.0.1	ad.23blogs.com
+127.0.0.1	ad.3ad.doubleclick.net
+127.0.0.1	ad.3au.doubleclick.net
+127.0.0.1	ad.71i.de
+127.0.0.1	ad.accessmediaproductions.com
+127.0.0.1	ad.adlantis.jp
+127.0.0.1	ad.adorika.com
+127.0.0.1	ad.adserve.com
+127.0.0.1	ad.adx.doubleclick.net
+127.0.0.1	ad.ae.doubleclick.net
+127.0.0.1	ad.afy11.net
+127.0.0.1	ad.agilemedia.jp
+127.0.0.1	ad.airad.com
+127.0.0.1	ad.allyes.cn
+127.0.0.1	ad.aquamediadirect.com
+127.0.0.1	ad.ar.doubleclick.net
+127.0.0.1	ad.at.doubleclick.net
+127.0.0.1	ad.au.doubleclick.net
+127.0.0.1	ad.axyzconductor.jp
+127.0.0.1	ad.be.doubleclick.net
+127.0.0.1	ad.bg.doubleclick.net
+127.0.0.1	ad.br.doubleclick.net
+127.0.0.1	ad.brainer.jp
+127.0.0.1	ad.ca.doubleclick.net
+127.0.0.1	ad.cctv.com
+127.0.0.1	ad.ch.doubleclick.net
+127.0.0.1	ad.cibleclick.com
+127.0.0.1	ad.cl.doubleclick.net
+127.0.0.1	ad.cn.doubleclick.net
+127.0.0.1	ad.cooks.com
+127.0.0.1	ad.de.doubleclick.net
+127.0.0.1	ad.dic.nicovideo.jp
+127.0.0.1	ad.directmirror.com
+127.0.0.1	ad.dk.doubleclick.net
+127.0.0.1	ad.doubleclick.com
+127.0.0.1	ad.doubleclick.net
+127.0.0.1	ad.download..net
+127.0.0.1	ad.duga.jp
+127.0.0.1	ad.e-kolay.net
+127.0.0.1	ad.eporner.com
+127.0.0.1	ad.es.doubleclick.net
+127.0.0.1	ad.favod.net
+127.0.0.1	ad.fi.doubleclick.net
+127.0.0.1	ad.floq.jp
+127.0.0.1	ad.flux.com
+127.0.0.1	ad.fnnews.com
+127.0.0.1	ad.fo.net
+127.0.0.1	ad.fout.jp
+127.0.0.1	ad.fr.doubleclick.net
+127.0.0.1	ad.ghfusion.com
+127.0.0.1	ad.gr.doubleclick.net
+127.0.0.1	ad.hk.doubleclick.net
+127.0.0.1	ad.hr.doubleclick.net
+127.0.0.1	ad.hu.doubleclick.net
+127.0.0.1	ad.icasthq.com
+127.0.0.1	ad.ie.doubleclick.net
+127.0.0.1	ad.iloveinterracial.com
+127.0.0.1	ad.imad.co.kr
+127.0.0.1	ad.impressbm.co.jp
+127.0.0.1	ad.in.doubleclick.net
+127.0.0.1	ad.indomp3z.us
+127.0.0.1	ad.it.doubleclick.net
+127.0.0.1	ad.jamba.net
+127.0.0.1	ad.jamster.com
+127.0.0.1	ad.jokeroo.com
+127.0.0.1	ad.jp.ap.valu.com
+127.0.0.1	ad.jp.doubleclick.net
+127.0.0.1	ad.kau.li
+127.0.0.1	ad.kr.doubleclick.net
+127.0.0.1	ad.land.to
+127.0.0.1	ad.leadbolt.net
+127.0.0.1	ad.lijit.com
+127.0.0.1	ad.linkstorms.com
+127.0.0.1	ad.livere.co.kr
+127.0.0.1	ad.lyricswire.com
+127.0.0.1	ad.mainichi.jp
+127.0.0.1	ad.maist.jp
+127.0.0.1	ad.mangareader.net
+127.0.0.1	ad.mo.doubleclick.net
+127.0.0.1	ad.mo.doubleclick.net
+127.0.0.1	ad.mygamesol.com
+127.0.0.1	ad.n2434.doubleclick.net
+127.0.0.1	ad.ne.com
+127.0.0.1	ad.net
+127.0.0.1	ad.nicovideo.jp
+127.0.0.1	ad.nl.doubleclick.net
+127.0.0.1	ad.no.doubleclick.net
+127.0.0.1	ad.nz.doubleclick.net
+127.0.0.1	ad.oret.jp
+127.0.0.1	ad.ourgame.com
+127.0.0.1	ad.pandora.tv
+127.0.0.1	ad.pickple.net
+127.0.0.1	ad.pl.doubleclick.net
+127.0.0.1	ad.premiumonlinemedia.com
+127.0.0.1	ad.proxy.sh
+127.0.0.1	ad.pt.doubleclick.net
+127.0.0.1	ad.qq.com
+127.0.0.1	ad.qwapi.com
+127.0.0.1	ad.qyer.com
+127.0.0.1	ad.rambler.ru
+127.0.0.1	ad.realmcdn.net
+127.0.0.1	ad.response.jp
+127.0.0.1	ad.ro.doubleclick.net
+127.0.0.1	ad.rs.doubleclick.net
+127.0.0.1	ad.ru.doubleclick.net
+127.0.0.1	ad.se.doubleclick.net
+127.0.0.1	ad.search.ch
+127.0.0.1	ad.searchina.ne.jp
+127.0.0.1	ad.sensismediasmart.com
+127.0.0.1	ad.sg.doubleclick.net
+127.0.0.1	ad.sharethis.com
+127.0.0.1	ad.si.doubleclick.net
+127.0.0.1	ad.slutload.com
+127.0.0.1	ad.smartclip.net
+127.0.0.1	ad.spielothek.so
+127.0.0.1	ad.sponsoreo.com
+127.0.0.1	ad.terra.doubleclick.net
+127.0.0.1	ad.th.doubleclick.net
+127.0.0.1	ad.thisav.com
+127.0.0.1	ad.traffmonster.info
+127.0.0.1	ad.turn.com
+127.0.0.1	ad.tw.doubleclick.net
+127.0.0.1	ad.uk.doubleclick.net
+127.0.0.1	ad.us.doubleclick.net
+127.0.0.1	ad.userporn.com
+127.0.0.1	ad.userporn.com
+127.0.0.1	ad.valuecalling.com
+127.0.0.1	ad.vidaroo.com
+127.0.0.1	ad.vippers.jp
+127.0.0.1	ad.watch.impress.co.jp
+127.0.0.1	ad.where.com
+127.0.0.1	ad.wiredvision.jp
+127.0.0.1	ad.wsod.com
+127.0.0.1	ad.za.doubleclick.net
+127.0.0.1	ad.zaman.com
+127.0.0.1	ad.zanox.com
+127.0.0.1	ad001.ru
+127.0.0.1	ad1.nownews.com
+127.0.0.1	ad2.doubleclick.net
+127.0.0.1	ad2.zophar.net
+127.0.0.1	ad20.net
+127.0.0.1	ad2games.com
+127.0.0.1	ad3.eu
+127.0.0.1	ad3.l3go.com
+127.0.0.1	ad4.liverail.com
+127.0.0.1	ad4game.com
+127.0.0.1	ad4partners.com
+127.0.0.1	ad6media.fr
+127.0.0.1	adaos-ads.net
+127.0.0.1	adapd.com
+127.0.0.1	adb.fling.com
+127.0.0.1	adclick.g.doubleclick.net
+127.0.0.1	adcontrol.tudou.com
+127.0.0.1	ade.wooboo.com.cn
+127.0.0.1	adextensioncontrol.tudou.com
+127.0.0.1	adguanggao.eee114.com
+127.0.0.1	adguanggao.eee114.com
+127.0.0.1	adm.265g.com
+127.0.0.1	adm.baidu.com
+127.0.0.1	adm.funshion.com
+127.0.0.1	adm.fwmrm.net
+127.0.0.1	adm.shinobi.jp
+127.0.0.1	adm.xmfish.com
+127.0.0.1	adman.gr
+127.0.0.1	adman.se
+127.0.0.1	admanage.com
+127.0.0.1	admatch-syndication.mochila.com
+127.0.0.1	admd.yam.com
+127.0.0.1	admedia.com
+127.0.0.1	admedia.wsod.com
+127.0.0.1	admedias.net
+127.0.0.1	admeta.vo.llnwd.net
+127.0.0.1	admez.com
+127.0.0.1	adping.qq.com
+127.0.0.1	adplay.tudou.com
+127.0.0.1	ads-rolandgarros.com
+127.0.0.1	ads-stats.com
+127.0.0.1	ads.adap.tv
+127.0.0.1	ads.adultswim.com
+127.0.0.1	ads.ahds.ac.uk
+127.0.0.1	ads.avazu.net
+127.0.0.1	ads.b10f.jp
+127.0.0.1	ads.belointeractive.com
+127.0.0.1	ads.bizx.info
+127.0.0.1	ads.bridgetrack.com
+127.0.0.1	ads.cc-dt.com
+127.0.0.1	ads.cnn.com
+127.0.0.1	ads.contentabc.com
+127.0.0.1	ads.cvut.cz
+127.0.0.1	ads.e-planning.net
+127.0.0.1	ads.expedia.com
+127.0.0.1	ads.forbes.com
+127.0.0.1	ads.fox.com
+127.0.0.1	ads.foxnews.com
+127.0.0.1	ads.fuckingmachines.com
+127.0.0.1	ads.gamelink.com
+127.0.0.1	ads.globo.com
+127.0.0.1	ads.golfweek.com
+127.0.0.1	ads.hosting.vcmedia.vn
+127.0.0.1	ads.id-t.com
+127.0.0.1	ads.indeed.com
+127.0.0.1	ads.intergi.com
+127.0.0.1	ads.jetpackdigital.com
+127.0.0.1	ads.jlisting.jp
+127.0.0.1	ads.lmmob.com
+127.0.0.1	ads.lzjl.com
+127.0.0.1	ads.mefeedia.com
+127.0.0.1	ads.meropar.jp
+127.0.0.1	ads.metropolis.co.jp
+127.0.0.1	ads.mixi.jp
+127.0.0.1	ads.morningstar.com
+127.0.0.1	ads.mp.mydas.mobi
+127.0.0.1	ads.mycricket.com
+127.0.0.1	ads.nicovideo.jp
+127.0.0.1	ads.nyootv.com
+127.0.0.1	ads.ookla.com
+127.0.0.1	ads.pandora.tv.net
+127.0.0.1	ads.peteava.ro
+127.0.0.1	ads.pof.com
+127.0.0.1	ads.pointroll.com
+127.0.0.1	ads.postimees.ee
+127.0.0.1	ads.scott-sports.com
+127.0.0.1	ads.scottusa.com
+127.0.0.1	ads.seriouswheels.com
+127.0.0.1	ads.sexier.com
+127.0.0.1	ads.smowtion.com
+127.0.0.1	ads.socialtheater.com
+127.0.0.1	ads.songs.pk
+127.0.0.1	ads.spilgames.com
+127.0.0.1	ads.stoiximan.gr
+127.0.0.1	ads.sumotorrent.com
+127.0.0.1	ads.tbs.com
+127.0.0.1	ads.telecinco.es
+127.0.0.1	ads.tracfonewireless.com
+127.0.0.1	ads.trackitdown.net
+127.0.0.1	ads.trutv.com
+127.0.0.1	ads.ultimatesurrender.com
+127.0.0.1	ads.undertone.com
+127.0.0.1	ads.us.e-planning.net
+127.0.0.1	ads.waps.cn
+127.0.0.1	ads.wapx.cn
+127.0.0.1	ads.worldstarhiphop.com
+127.0.0.1	ads.xxxbunker.com
+127.0.0.1	ads.yimg.com
+127.0.0.1	ads.zynga.com
+127.0.0.1	ads01.com
+127.0.0.1	ads1.msads.net
+127.0.0.1	ads1.msn.com
+127.0.0.1	ads2ads.net
+127.0.0.1	ads2srv.com
+127.0.0.1	ads4cheap.com
+127.0.0.1	ads80.com
+127.0.0.1	adsclick.qq.com
+127.0.0.1	adsfile.qq.com
+127.0.0.1	adsgroup.qq.com
+127.0.0.1	adshmct.qq.com
+127.0.0.1	adshmmsg.qq.com
+127.0.0.1	adslvfile.qq.com
+127.0.0.1	adslvseed.qq.com
+127.0.0.1	adsqqclick.qq.com
+127.0.0.1	adsrich.qq.com
+127.0.0.1	adstextview.qq.com
+127.0.0.1	adsview.qq.com
+127.0.0.1	adsview2.qq.com
+127.0.0.1	adver.pengyou.com
+127.0.0.1	advstat.xunlei.com
+127.0.0.1	adx.g.doubleclick.net
+127.0.0.1	affiliate.2mdn.net
+127.0.0.1	afp.qiyi.com
+127.0.0.1	amn.doubleclick.net
+127.0.0.1	analytics.admob.com
+127.0.0.1	analytics.ku6.com
+127.0.0.1	aos.gw.youmi.net
+127.0.0.1	api.admob.com
+127.0.0.1	api.admob.com
+127.0.0.1	api.airpush.com
+127.0.0.1	apps5.oingo.com
+127.0.0.1	appsrv1.madserving.cn
+127.0.0.1	ashow.pcpop.com
+127.0.0.1	at-img1.tdimg.com
+127.0.0.1	at-img2.tdimg.com
+127.0.0.1	at-img3.tdimg.com
+127.0.0.1	atm.youku.com
+127.0.0.1	b.admob.com
+127.0.0.1	baidutv.baidu.com
+127.0.0.1	banlv.baidu.com
+127.0.0.1	bar.baidu.com
+127.0.0.1	bill.agent.56.com
+127.0.0.1	bill.agent.v-56.com
+127.0.0.1	biz5.sandai.net
+127.0.0.1	bm.alimama.cn
+127.0.0.1	bmvip.alimama.cn
+127.0.0.1	c.admob.com
+127.0.0.1	c.baidu.com
+127.0.0.1	c.l.qq.com
+127.0.0.1	c2.l.qq.com
+127.0.0.1	cache.adm.cnzz.net
+127.0.0.1	casting.openv.com
+127.0.0.1	cb.alimama.cn
+127.0.0.1	cb.baidu.com
+127.0.0.1	cc-dt.com
+127.0.0.1	cctv.adsunion.com
+127.0.0.1	cctv.adsunion.com
+127.0.0.1	cfg.adsmogo.com
+127.0.0.1	cjhq.baidu.com
+127.0.0.1	click.am1.adm.cnzz.net
+127.0.0.1	clickserve.cc-dt.com
+127.0.0.1	clickserve.dartsearch.net
+127.0.0.1	clickserve.eu.dartsearch.net
+127.0.0.1	clickserve.uk.dartsearch.net
+127.0.0.1	clickserve.us2.dartsearch.net
+127.0.0.1	cm.g.doubleclick.net
+127.0.0.1	cmweb.ilike.alibaba.com
+127.0.0.1	cn.ad.adon.vpon.com
+127.0.0.1	cn.img.adon.vpon.com
+127.0.0.1	cpm.admob.com
+127.0.0.1	cpm2.admob.com
+127.0.0.1	cpro.baidu.com
+127.0.0.1	creative.cc-dt.com
+127.0.0.1	creatives.doubleclick.net
+127.0.0.1	d.admob.com
+127.0.0.1	d.cntv.cn
+127.0.0.1	d.wiyun.com
+127.0.0.1	dart-apac.l.doubleclick.net
+127.0.0.1	dcads.sina.com.cn
+127.0.0.1	dfp.doubleclick.net
+127.0.0.1	doubleclick.com
+127.0.0.1	doubleclick.de
+127.0.0.1	doubleclick.ne.jp
+127.0.0.1	doubleclick.net
+127.0.0.1	doubleclick.shockwave.com
+127.0.0.1	dr.soso.com
+127.0.0.1	drmcmm.baidu.com
+127.0.0.1	dzl.baidu.com
+127.0.0.1	e.admob.com
+127.0.0.1	e.baidu.com
+127.0.0.1	ebaycn.doubleclick.net
+127.0.0.1	ebaytw.doubleclick.net
+127.0.0.1	eiv.baidu.com
+127.0.0.1	f.admob.com
+127.0.0.1	f.qstatic.com
+127.0.0.1	feedads.g.doubleclick.net
+127.0.0.1	fls.doubleclick.net
+127.0.0.1	fls.uk.doubleclick.net
+127.0.0.1	focusbaiduafp.allyes.com
+127.0.0.1	focusbaiduafp.allyes.com
+127.0.0.1	fodder.qq.com
+127.0.0.1	fodder.tc.qq.com
+127.0.0.1	fw.qq.com
+127.0.0.1	g.admob.com
+127.0.0.1	gan.doubleclick.net
+127.0.0.1	gdfp.g.doubleclick.net
+127.0.0.1	ge-0-0-1-edge1.sc9.admob.com
+127.0.0.1	ge-0-0-43-crs1.sc9.admob.com
+127.0.0.1	gimg.baidu.com
+127.0.0.1	googleads.g.doubleclick.net
+127.0.0.1	guanjia.baidu.com
+127.0.0.1	gug.ku6cdn.com
+127.0.0.1	gw.youmi.net
+127.0.0.1	h.admob.com
+127.0.0.1	hc.baidu.com
+127.0.0.1	hermes.airad.com
+127.0.0.1	hm.baidu.com
+127.0.0.1	hm.l.qq.com
+127.0.0.1	html.atm.youku.com
+127.0.0.1	httpring.qq.com
+127.0.0.1	hz.mmstat.com
+127.0.0.1	i.admob.com
+127.0.0.1	iebar.baidu.com
+127.0.0.1	ikcode.baidu.com
+127.0.0.1	images.sohu.com
+127.0.0.1	imc.l.qq.com
+127.0.0.1	imp.adsmogo.com
+127.0.0.1	iwstat.tudou.com
+127.0.0.1	j.admob.com
+127.0.0.1	jingjia.qq.com
+127.0.0.1	jzclick.soso.com
+127.0.0.1	k.admob.com
+127.0.0.1	ku6.allyes.com
+127.0.0.1	ku6afp.allyes.com
+127.0.0.1	l.admob.com
+127.0.0.1	l.qq.com
+127.0.0.1	l2.l.qq.com
+127.0.0.1	ln.doubleclick.net
+127.0.0.1	lstat.youku.com
+127.0.0.1	m.admob.com
+127.0.0.1	m.de.2mdn.net
+127.0.0.1	m.doubleclick.net
+127.0.0.1	m.fr.2mdn.net
+127.0.0.1	m.openv.tv
+127.0.0.1	m.uk.2mdn.net
+127.0.0.1	m.us.doubleclick.net
+127.0.0.1	m1.2mdn.net
+127.0.0.1	m1.au.2mdn.net
+127.0.0.1	m1.doubleclick.net
+127.0.0.1	m1.emea.2mdn.net
+127.0.0.1	m2.doubleclick.net
+127.0.0.1	m3.2mdn.net
+127.0.0.1	ma.baidu.com
+127.0.0.1	ma.baidu.com
+127.0.0.1	mangler1.generals.ea.com
+127.0.0.1	mangler10.generals.ea.com
+127.0.0.1	mangler2.generals.ea.com
+127.0.0.1	mangler3.generals.ea.com
+127.0.0.1	mangler4.generals.ea.com
+127.0.0.1	mangler5.generals.ea.com
+127.0.0.1	mangler6.generals.ea.com
+127.0.0.1	mangler7.generals.ea.com
+127.0.0.1	mangler8.generals.ea.com
+127.0.0.1	mangler9.generals.ea.com
+127.0.0.1	mcfg.sandai.net
+127.0.0.1	media.admob.com
+127.0.0.1	mm.admob.com
+127.0.0.1	mm.admob.com
+127.0.0.1	mm1.vip.sc1.admob.com
+127.0.0.1	mmv.admob.com
+127.0.0.1	motifcdn.doubleclick.net
+127.0.0.1	motifcdn2.doubleclick.net
+127.0.0.1	mpv.sandai.net
+127.0.0.1	n.admob.com
+127.0.0.1	n3285ad.doubleclick.net
+127.0.0.1	n3349ad.doubleclick.net
+127.0.0.1	n339.asp-cc.com
+127.0.0.1	n4052ad.doubleclick.net
+127.0.0.1	n4061ad.doubleclick.net
+127.0.0.1	n4061ad.fr.doubleclick.net
+127.0.0.1	n4061ad.hk.doubleclick.net
+127.0.0.1	n4403ad.doubleclick.net
+127.0.0.1	n479ad.doubleclick.net
+127.0.0.1	n609ad.doubleclick.net
+127.0.0.1	neirong.baidu.com
+127.0.0.1	nsclick.baidu.com
+127.0.0.1	nsclick.baidu.com
+127.0.0.1	nstat.tudou.com
+127.0.0.1	o.admob.com
+127.0.0.1	oimsgad.qq.com
+127.0.0.1	optimize.doubleclick.net
+127.0.0.1	optout.doubleclick.net
+127.0.0.1	p.admob.com
+127.0.0.1	p.l.qq.com
+127.0.0.1	p2.l.qq.com
+127.0.0.1	p3p.alibaba.com
+127.0.0.1	p3p.mmstat.com
+127.0.0.1	p4psearch.china.alibaba.com
+127.0.0.1	pagespeed.report.qq.com
+127.0.0.1	paix1.sc1.admob.com
+127.0.0.1	pic.casee.cn
+127.0.0.1	pingfore.qq.com
+127.0.0.1	pingfore.soso.com
+127.0.0.1	pole.6rooms.com
+127.0.0.1	pos.baidu.com
+127.0.0.1	pp2.pptv.com
+127.0.0.1	pq.stat.ku6.com
+127.0.0.1	pro.letv.com
+127.0.0.1	q.admob.com
+127.0.0.1	qqlogo.qq.com
+127.0.0.1	qring-tms.qq.com
+127.0.0.1	qss-client.qq.com
+127.0.0.1	r.admob.com
+127.0.0.1	r.admob.com
+127.0.0.1	r.domob.cn
+127.0.0.1	r2.adwo.com
+127.0.0.1	rad.live.com
+127.0.0.1	rad.msn.com
+127.0.0.1	rd.intl.doubleclick.net
+127.0.0.1	req.adsmogo.com
+127.0.0.1	rh.qq.com
+127.0.0.1	rich.qq.com
+127.0.0.1	rmcdn.2mdn.net
+127.0.0.1	rmcdn.f.2mdn.net
+127.0.0.1	rs1.qq.com
+127.0.0.1	rs2.qq.com
+127.0.0.1	s.admob.com
+127.0.0.1	s.baidu.com
+127.0.0.1	s.domob.cn
+127.0.0.1	s1.2mdn.net
+127.0.0.1	s2.video.doubleclick.net
+127.0.0.1	sc1.admob.com
+127.0.0.1	sc9.admob.com
+127.0.0.1	scdown.qq.com
+127.0.0.1	se1.doubleclick.net
+127.0.0.1	securepubads.g.doubleclick.net
+127.0.0.1	server1.adpolestar.net
+127.0.0.1	service.urchin.com
+127.0.0.1	servserv.generals.ea.com
+127.0.0.1	show-msgch.qq.com
+127.0.0.1	shrek.6.cn
+127.0.0.1	simba.6.cn
+127.0.0.1	sobar.baidu.com
+127.0.0.1	sobartop.baidu.com
+127.0.0.1	spcode.baidu.com
+127.0.0.1	spcode.baidu.com
+127.0.0.1	speed.lstat.youku.com
+127.0.0.1	st.vq.ku6.cn
+127.0.0.1	stat.56.com
+127.0.0.1	stat.gw.youmi.net
+127.0.0.1	stat.tudou.com
+127.0.0.1	stat.youku.com
+127.0.0.1	stat0.888.ku6.com
+127.0.0.1	stat1.888.ku6.com
+127.0.0.1	stat2.888.ku6.com
+127.0.0.1	stat2.corp.56.com
+127.0.0.1	stat3.888.ku6.com
+127.0.0.1	static.adwo.com
+127.0.0.1	static.ku6.com
+127.0.0.1	static.lstat.youku.com
+127.0.0.1	static.mediav.com
+127.0.0.1	static.wooboo.com.cn
+127.0.0.1	static.youmi.net
+127.0.0.1	stats.tudou.com
+127.0.0.1	survey.china.alibaba.com
+127.0.0.1	t.admob.com
+127.0.0.1	t.atpanel.com
+127.0.0.1	taobaoafp.allyes.cn
+127.0.0.1	taobaoafp.allyes.com
+127.0.0.1	tcss.qq.com
+127.0.0.1	tk.baidu.com
+127.0.0.1	tk.baidu.com
+127.0.0.1	tkweb.baidu.com
+127.0.0.1	tongji.baidu.com
+127.0.0.1	toolbar.baidu.com
+127.0.0.1	toolbar.soso.com
+127.0.0.1	trace.qq.com
+127.0.0.1	tracker.baidu.com
+127.0.0.1	u.admob.com
+127.0.0.1	ubmcmm.baidustatic.com
+127.0.0.1	ucstat.baidu.com
+127.0.0.1	ucstat.baidu.com
+127.0.0.1	ulic.baidu.com
+127.0.0.1	uniclick.openv.com
+127.0.0.1	union.56.com
+127.0.0.1	union.6.cn
+127.0.0.1	union.baidu.com
+127.0.0.1	union.baidu.com
+127.0.0.1	unstat.baidu.com
+127.0.0.1	urchin.lstat.youku.com
+127.0.0.1	utility.baidu.com
+127.0.0.1	utility.baidu.com
+127.0.0.1	utk.baidu.com
+127.0.0.1	utk.baidu.com
+127.0.0.1	uvimage.56.com
+127.0.0.1	v.admob.com
+127.0.0.1	v0.stat.ku6.com
+127.0.0.1	v1.stat.ku6.com
+127.0.0.1	v16.56.com
+127.0.0.1	v2.stat.ku6.com
+127.0.0.1	v3.stat.ku6.com
+127.0.0.1	v3.toolbar.soso.com
+127.0.0.1	valb.atm.youku.com
+127.0.0.1	valc.atm.youku.com
+127.0.0.1	valf.atm.youku.com
+127.0.0.1	valo.atm.youku.com
+127.0.0.1	valp.atm.youku.com
+127.0.0.1	vid.atm.youku.com
+127.0.0.1	w.admob.com
+127.0.0.1	w.l.qq.com
+127.0.0.1	walp.atm.youku.com
+127.0.0.1	wangmeng.baidu.com
+127.0.0.1	wap.casee.cn
+127.0.0.1	wm.baidu.com
+127.0.0.1	www.adview.cn
+127.0.0.1	www.appliedsemantics.com
+127.0.0.1	www.atpanel.com
+127.0.0.1	www.destinationurl.com
+127.0.0.1	www.tao123.com
+127.0.0.1	www1.vip.sc9.admob.com
+127.0.0.1	www3.webhostingtalk.com
+127.0.0.1	x.admob.com
+127.0.0.1	y.admob.com
+127.0.0.1	z.admob.com
+127.0.0.1	ads.mopub.com
+127.0.0.1	dock.inmobi.com
+127.0.0.1	e-ltvp.inmobi.com
+127.0.0.1	i.w.inmobi.com
+127.0.0.1	f1.p0y.com
+127.0.0.1	f2.p0y.com
+127.0.0.1	f3.p0y.com
+127.0.0.1	f4.p0y.com
+127.0.0.1	file.ipinyou.com.cn
+127.0.0.1	stats.ipinyou.com
+#AdBlock END
+
+#ccFox.info START
+66.155.11.238	ccfox.info
+66.155.11.238	myimouto.wordpress.com
+192.0.72.3	myimouto.files.wordpress.com
+50.63.202.23	imouto.me
+#ccFox.info END
+
+#12306 START
+#61.157.124.251	dynamic.12306.cn
+#12306 END
+
+#ProjectH START
+106.186.31.197	projecth.us
+106.186.31.197	www.projecth.us
+106.186.31.197	forum.projecth.us
+106.186.31.197	repo.projecth.us
+#ProjectH END
+
+#3DM START
+#122.226.122.23	bbs.3dmgame.com
+#122.226.122.6	tu.3dmgame.com
+#120.92.249.145	dl.3dmgame.com
+#120.92.249.145	www.3dmgame.com
+#120.92.249.136	att.3dmgame.com
+#120.92.249.136	pic1.3dmgame.com
+#120.92.249.136	file1.3dmgame.com
+#120.92.249.136	img0.3dmgame.com
+#3DM END
+
+#Battle.NET START
+#12.129.206.133	enUS.patch.battle.net
+#12.129.206.133	zhTW.patch.battle.net
+#208.111.168.7	llnw.blizzard.com
+#Battle.NET END
+
+#WordPress START
+66.155.11.243	wordpress.com
+68.232.44.111	s0.wp.com
+68.232.44.111	s1.wp.com
+68.232.44.111	s2.wp.com
+68.232.44.111	s.wordpress.org
+68.232.44.111	s.wordpress.com
+68.232.44.111	s1.wordpress.com
+68.232.44.111	s2.wordpress.com
+68.232.44.111	s3.wordpress.com
+68.232.44.119	s.stats.wordpress.com
+66.155.9.238	lb.wordpress.com
+66.155.9.238	zh.wordpress.com
+66.155.9.238	zh-sg.wordpress.com
+66.155.9.238	zh-cn.wordpress.com
+66.155.9.238	dashboard.wordpress.com
+66.155.9.238	forums.wordpress.com
+66.155.9.238	en.forums.wordpress.com
+66.155.9.238	en.blog.wordpress.com
+66.155.9.238	stats.wordpress.com
+66.155.9.238	wpcom.wordpress.com
+66.155.9.238	lucifr.wordpress.com
+192.0.81.250 	botd2.wordpress.com
+192.0.81.250 	r-login.wordpress.com
+#WordPress END
+
+#Microsoft Live START
+134.170.108.26	onedrive.live.com
+134.170.109.48	skyapi.onedrive.live.com
+134.170.108.224	storage.live.com
+#134.170.30.15	people.live.com
+#Microsoft Live END
+
+#GitHub START
+192.30.252.131	github.com
+192.30.252.131	www.github.com
+192.30.252.144	nodeload.github.com
+103.245.222.133	raw.github.com
+103.245.222.133	documentcloud.github.com
+103.245.222.133	pages.github.com
+103.245.222.184	github.global.ssl.fastly.net
+103.245.222.133	google.github.io
+#GitHub END
+
+#Box.com START
+74.112.184.73	box.com
+74.112.184.70	app.box.com
+#Box.com END
+
+#SoundCloud START
+#68.232.44.127	soundcloud.com
+#72.21.91.127	m.soundcloud.com
+#68.232.44.127	api.soundcloud.com
+#178.249.136.161	visuals.soundcloud.com
+#54.76.28.15	eventlogger.soundcloud.com
+#68.232.45.96	ec-media.soundcloud.com
+#68.232.44.96	a-v2.sndcdn.com
+#23.207.123.120	sb.scorecardresearch.com
+#203.190.124.16	secure.quantserve.com
+#203.190.124.18	pixel.quantserve.com
+#62.161.94.230	logs1403.xiti.com
+#208.111.171.129	soundcloud.hs.llnwd.net
+#SoundCloud END
+
+#inoreader START
+#78.83.7.11	www.inoreader.com
+#78.83.7.11	inoreader.com
+#inoreader END
+
+#feedly START
+162.159.252.5	www.feedly.com
+162.159.252.5	feedly.com
+74.125.204.121	s3.feedly.com
+64.233.165.141	feedly-beta.appspot.com
+#feedly END
+
+#FlipBoard START
+23.23.72.70	fbprod.flipboard.com
+54.230.150.180	cdn.flipboard.com
+54.225.133.17	beacon.flipboard.com
+#FlipBoard END
+
+#Twitter START
+199.16.158.8	twitter.com
+199.16.158.8	www.twitter.com
+199.16.158.13	mobile.twitter.com
+199.16.158.9	api.twitter.com
+199.16.158.19	urls-real.api.twitter.com
+199.16.158.12	t.co
+199.16.158.11	tweetdeck.com
+199.16.158.11	www.tweetdeck.com
+199.16.158.11	tdweb.twitter.com
+199.16.158.11	api.tweetdeck.com
+199.16.158.11	downloads.tweetdeck.com
+199.16.158.11	tweetdeck.twitter.com
+199.16.158.11	web.tweetdeck.com
+23.44.161.224	p.twitter.com
+23.44.161.224	cdn.api.twitter.com
+23.44.161.224	platform.twitter.com
+23.44.161.224	preview.cdn.twitter.com
+199.16.158.18	image-proxy-origin.twimg.com
+199.59.150.46	syndication.twitter.com
+199.59.150.46	syndication.twimg.com
+199.59.150.46	cdn.syndication.twitter.com
+199.59.150.46	cdn.syndication.twimg.com
+199.59.150.46	syndication-o.twitter.com
+199.59.150.46	syndication-o.twimg.com
+117.18.237.139	a0.twimg.com
+117.18.237.139	a1.twimg.com
+117.18.237.139	abs.twimg.com
+117.18.237.139	p.twimg.com
+199.16.158.15	r.twimg.com
+117.18.237.139	si0.twimg.com
+117.18.237.139	si1.twimg.com
+117.18.237.139	si2.twimg.com
+117.18.237.139	si3.twimg.com
+117.18.237.139	si4.twimg.com
+117.18.237.139	si5.twimg.com
+199.16.158.14	support.twitter.com
+199.16.158.10	blog.twitter.com
+199.16.158.10	about.twitter.com
+199.16.158.10	pic.twitter.com
+199.16.158.10	stream.twitter.com
+199.16.158.10	sitestream.twitter.com
+199.16.158.10	betastream.twitter.com
+199.16.158.20	upload.twitter.com
+199.16.158.10	dev.twitter.com
+199.16.158.81	userstream.twitter.com
+#209.17.68.209	oi40.tinypic.com
+#209.17.68.209	oi41.tinypic.com
+#209.17.68.209	oi42.tinypic.com
+#209.17.68.209	oi43.tinypic.com
+#209.17.68.209	oi44.tinypic.com
+#209.17.68.209	oi45.tinypic.com
+#209.17.68.209	oi46.tinypic.com
+#209.17.68.209	oi47.tinypic.com
+#209.17.68.209	oi48.tinypic.com
+#209.17.68.209	oi49.tinypic.com
+#209.17.68.209	oi50.tinypic.com
+#209.17.68.209	oi51.tinypic.com
+#209.17.68.209	oi52.tinypic.com
+#209.17.68.209	oi53.tinypic.com
+#209.17.68.209	oi54.tinypic.com
+#209.17.68.209	oi55.tinypic.com
+#209.17.68.209	oi56.tinypic.com
+96.127.160.130	twitpic.com
+#96.127.160.130	m1.twitpic.com
+96.127.160.130	web1.twitpic.com
+96.127.160.130	web2.twitpic.com
+96.127.160.130	web3.twitpic.com
+96.127.160.130	web4.twitpic.com
+96.127.160.130	web5.twitpic.com
+96.127.160.130	web6.twitpic.com
+96.127.160.130	web7.twitpic.com
+96.127.160.130	web8.twitpic.com
+96.127.160.130	web9.twitpic.com
+96.127.160.130	web10.twitpic.com
+#Twitter END
+
+#Facebook START
+127.0.0.1	ads.ak.facebook.com
+127.0.0.1	creative.ak.facebook.com
+127.0.0.1	creative.ak.fbcdn.net
+173.252.120.6	facebook.com
+173.252.74.22	www.facebook.com
+173.252.74.22	m.facebook.com
+69.171.237.25	d.facebook.com
+69.171.237.25	touch.facebook.com
+69.171.237.25	zh-CN.facebook.com
+69.171.237.25	ldap.thefacebook.com
+69.171.237.25	graph.facebook.com
+69.171.237.25	upload.facebook.com
+69.171.237.25	vupload.facebook.com
+69.171.237.25	developers.facebook.com
+69.171.237.25	connect.facebook.net
+69.171.237.25	creativeupload.facebook.com
+69.171.237.25	bigzipfiles.facebook.com
+69.171.237.25	star.facebook.com
+69.171.235.13	bigzipfiles.facebook.com
+31.13.82.32	api.facebook.com
+173.252.120.8	b-api.facebook.com
+31.13.82.32	api-read.facebook.com
+31.13.82.32	apps.facebook.com
+31.13.82.32	pixel.facebook.com
+31.13.82.32	ssl.facebook.com
+31.13.82.32	secure.facebook.com
+31.13.82.32	orcart.facebook.com
+31.13.82.32	attachments.facebook.com
+69.171.237.25	vpn.tfbnw.net
+61.213.189.113	fbcdn.net
+61.213.189.113	s-hprofile-sf2p.fbcdn.net
+61.213.189.114	profile.ak.fbcdn.net
+61.213.189.120	b.static.ak.fbcdn.net
+61.213.189.98	b.static.ak.facebook.com
+23.5.157.177	s-static.ak.fbcdn.net
+184.26.194.110	s-static.ak.facebook.com
+69.171.235.9	s-static.facebook.com
+61.213.189.98	static.ak.facebook.com
+61.213.189.113	creative.ak.fbcdn.net
+23.3.68.113	external.ak.fbcdn.net
+31.13.85.71	ent-a.xx.fbcdn.net
+31.13.85.71	ent-b.xx.fbcdn.net
+31.13.85.71	ent-c.xx.fbcdn.net
+31.13.85.71	ent-d.xx.fbcdn.net
+31.13.85.71	ent-e.xx.fbcdn.net
+31.13.85.71	ent-a.xy.fbcdn.net
+31.13.85.71	ent-b.xy.fbcdn.net
+31.13.85.71	ent-c.xy.fbcdn.net
+31.13.85.71	ent-d.xy.fbcdn.net
+31.13.85.71	ent-e.xy.fbcdn.net
+31.13.70.56	scontent-a.xx.fbcdn.net
+31.13.70.56	scontent-b.xx.fbcdn.net
+31.13.70.56	scontent-c.xx.fbcdn.net
+31.13.70.56	scontent-d.xx.fbcdn.net
+31.13.70.56	scontent-e.xx.fbcdn.net
+42.99.128.138	fbcdn-profile-a.akamaihd.net
+#120.29.145.50	vthumb.ak.fbcdn.net
+#69.171.248.16	ect.channel.facebook.com
+#69.171.248.16	0-ect.channel.facebook.com
+#69.171.248.16	1-ect.channel.facebook.com
+#69.171.248.16	2-ect.channel.facebook.com
+#69.171.248.16	3-ect.channel.facebook.com
+#69.171.248.16	4-ect.channel.facebook.com
+#69.171.248.16	5-ect.channel.facebook.com
+#69.171.248.16	6-ect.channel.facebook.com
+#69.171.248.16	7-ect.channel.facebook.com
+#173.223.232.67	fbcdn-sphotos-a.akamaihd.net
+#117.104.139.58	fbcdn-photos-a.akamaihd.net
+#60.254.131.177	fbstatic-a.akamaihd.net
+#Facebook END
+
+#Flickr START
+69.147.76.173	flickr.com
+124.108.101.10	www.flickr.com
+121.101.144.116	up.flickr.com
+121.101.144.112	api.flickr.com
+106.10.137.23	static.flickr.com
+208.71.44.31	secure.flickr.com
+208.71.44.31	m.flickr.com
+#98.136.43.76	geo.yahoo.com
+#209.191.92.115	edit.yahoo.com
+#124.108.97.193	login.yahoo.com
+#66.163.168.247	open.login.yahoo.com
+#68.142.196.57	c5.ah.yahoo.com
+#124.108.120.124	sa.edit.yahoo.com
+#209.191.105.102	adjax.flickr.yahoo.com
+#98.137.88.88	d.yimg.com
+#68.142.250.161	l.yimg.com
+#96.6.93.227	s.yimg.com
+#204.0.5.34	us.js2.yimg.com
+#204.0.5.35	content.yieldmanager.edgesuite.net
+#68.142.214.43	farm1.staticflickr.com
+#69.147.90.159	farm2.staticflickr.com
+#77.238.160.184	farm3.staticflickr.com
+#76.13.18.77	farm4.staticflickr.com
+#76.13.18.79	farm5.staticflickr.com
+#98.136.171.208	farm6.staticflickr.com
+#98.138.250.88	farm7.staticflickr.com
+#69.147.90.159	sp1.farm2.staticflickr.com
+#69.147.90.215	sp1.farm3.staticflickr.com
+#76.13.18.77	ac4.farm4.staticflickr.com
+#68.142.214.43	mud.farm1.staticflickr.com
+#98.138.250.88	ne1.farm7.staticflickr.com
+#98.137.205.236	bf1.farm3.staticflickr.com
+#98.139.21.45	bf1.farm6.staticflickr.com
+#98.139.235.135	bf1.farm7.staticflickr.com
+#216.39.54.34	gq1.farm3.staticflickr.com
+#67.195.19.62	gq1.farm4.staticflickr.com
+#67.195.19.65	gq1.farm5.staticflickr.com
+#98.136.171.208	gq1.farm6.staticflickr.com
+#Flickr END
+
+#imgur START
+103.245.222.193	imgur.com
+103.245.222.193	www.imgur.com
+103.245.222.193	i.imgur.com
+103.245.222.193	s.imgur.com
+#imgur END
+
+#DuckDuckGo START
+46.51.216.186	duckduckgo.com
+46.51.216.186	www.duckduckgo.com
+#46.51.216.186	search.duckduckgo.com
+46.51.197.89	ac.duckduckgo.com
+46.51.218.82	icons.duckduckgo.com
+46.51.218.82	images.duckduckgo.com
+46.51.216.186	help.duckduckgo.com
+#DuckDuckGo END
+
+#Ixquick START
+64.71.175.133	www.ixquick.com
+64.71.175.133	ixquick.com
+64.71.175.133	support.ixquick.com
+64.71.175.133	s19.ixquick.com
+64.71.175.133	s1-eu5.ixquick.com
+64.71.175.133	s2-eu5.ixquick.com
+64.71.175.133	s3-eu5.ixquick.com
+64.71.175.133	s4-eu5.ixquick.com
+64.71.175.133	s5-eu5.ixquick.com
+64.71.175.133	s6-eu5.ixquick.com
+64.71.175.133	s7-eu5.ixquick.com
+64.71.175.133	s8-eu5.ixquick.com
+64.71.175.133	s9-eu5.ixquick.com
+64.71.175.133	s10-eu5.ixquick.com
+64.71.175.133	s11-eu5.ixquick.com
+64.71.175.133	s12-eu5.ixquick.com
+64.71.175.133	s13-eu2.ixquick.com
+64.71.175.133	s14-eu2.ixquick.com
+64.71.175.133	s15-eu2.ixquick.com
+64.71.175.133	s16-eu2.ixquick.com
+64.71.175.133	s17-eu2.ixquick.com
+64.71.175.133	s18-eu2.ixquick.com
+64.71.175.133	s19-eu2.ixquick.com
+64.71.175.133	s20-eu2.ixquick.com
+64.71.175.133	s1-us5.ixquick.com
+64.71.175.133	s2-us5.ixquick.com
+64.71.175.133	s3-us5.ixquick.com
+64.71.175.133	s4-us5.ixquick.com
+64.71.175.133	s5-us5.ixquick.com
+64.71.175.133	s6-us5.ixquick.com
+64.71.175.133	s7-us5.ixquick.com
+64.71.175.133	s8-us5.ixquick.com
+64.71.175.133	s9-us5.ixquick.com
+64.71.175.133	s10-us5.ixquick.com
+64.71.175.133	s11-us5.ixquick.com
+64.71.175.133	s12-us5.ixquick.com
+64.71.175.133	s13-us2.ixquick.com
+64.71.175.133	s14-us2.ixquick.com
+64.71.175.133	s15-us2.ixquick.com
+64.71.175.133	s16-us2.ixquick.com
+64.71.175.133	s17-us2.ixquick.com
+64.71.175.133	s18-us2.ixquick.com
+64.71.175.133	s19-us2.ixquick.com
+64.71.175.133	s20-us2.ixquick.com
+#Ixquick END
+
+#Startpage START
+37.0.88.36	startpage.com
+37.0.88.36	eu.startpage.com
+37.0.88.36	www.startpage.com
+37.0.88.36	support.startpage.com
+37.0.88.36	blog.startpage.com
+#Startpage END
+
+#Google Services START
+#GoogleAccounts↓
+64.233.181.84	accounts.google.com
+64.233.181.84	accounts.l.google.com
+#GoogleAccounts↑
+#www.google.com↓
+64.233.181.104	www.google.com
+#www.google.com↑
+#Googleapis↓
+210.242.125.99	mt0.googleapis.com
+210.242.125.99	mt1.googleapis.com
+210.242.125.99	mt2.googleapis.com
+210.242.125.99	mt3.googleapis.com
+210.242.125.99	mts0.googleapis.com
+210.242.125.99	mts1.googleapis.com
+210.242.125.99	mts2.googleapis.com
+210.242.125.99	mts3.googleapis.com
+210.242.125.99	googleapis.com
+64.233.181.95	www.googleapis.com
+64.233.181.95	android.googleapis.com
+64.233.181.95	play.googleapis.com
+64.233.181.95	plus.googleapis.com
+64.233.181.95	ajax.googleapis.com
+64.233.181.95	chart.googleapis.com
+64.233.181.95	fonts.googleapis.com
+64.233.181.95	redirector-bigcache.googleapis.com
+64.233.181.95	translate.googleapis.com
+64.233.181.95	maps.googleapis.com
+64.233.181.95	content.googleapis.com
+64.233.181.95	googleapis.l.google.com
+64.233.181.95	doc-0a9v4-0agdq-s-googleusercontent.commondatastorage.googleapis.com
+#Googleapis↑
+#Android↓
+#74.125.235.226	android-china.l.google.com
+#74.125.235.226	www-china.l.google.com
+64.233.181.100	android.clients.google.com
+64.233.181.100	android.apis.google.com
+64.233.181.100	android.l.google.com
+64.233.181.132	googlehosted.l.google.com
+210.242.125.99	base0.googlehosted.com
+210.242.125.99	base1.googlehosted.com
+210.242.125.99	base2.googlehosted.com
+210.242.125.99	base3.googlehosted.com
+210.242.125.99	base4.googlehosted.com
+210.242.125.99	base5.googlehosted.com
+64.233.181.113	clients.l.google.com
+64.233.181.139	clients1.google.com
+64.233.181.139	clients2.google.com
+64.233.181.139	clients3.google.com
+64.233.181.139	clients4.google.com
+64.233.181.139	clients5.google.com
+64.233.181.139	clients6.google.com
+64.233.181.139	clients7.google.com
+64.233.181.189	0.client-channel.google.com
+64.233.181.189	1.client-channel.google.com
+64.233.181.189	2.client-channel.google.com
+64.233.181.189	3.client-channel.google.com
+64.233.181.189	4.client-channel.google.com
+64.233.181.189	5.client-channel.google.com
+64.233.181.189	6.client-channel.google.com
+64.233.181.189	7.client-channel.google.com
+64.233.181.189	8.client-channel.google.com
+64.233.181.189	9.client-channel.google.com
+64.233.181.189	10.client-channel.google.com
+64.233.181.189	11.client-channel.google.com
+64.233.181.189	12.client-channel.google.com
+64.233.181.189	13.client-channel.google.com
+64.233.181.189	14.client-channel.google.com
+64.233.181.189	15.client-channel.google.com
+64.233.181.189	16.client-channel.google.com
+64.233.181.189	17.client-channel.google.com
+64.233.181.189	18.client-channel.google.com
+64.233.181.189	19.client-channel.google.com
+64.233.181.189	20.client-channel.google.com
+64.233.181.189	21.client-channel.google.com
+64.233.181.189	22.client-channel.google.com
+64.233.181.189	23.client-channel.google.com
+64.233.181.189	24.client-channel.google.com
+64.233.181.189	25.client-channel.google.com
+64.233.181.189	26.client-channel.google.com
+64.233.181.189	27.client-channel.google.com
+64.233.181.189	28.client-channel.google.com
+64.233.181.189	29.client-channel.google.com
+64.233.181.188	mtalk.google.com
+64.233.181.125	talk.google.com
+64.233.181.125	talkx.l.google.com
+64.233.181.125	talk.l.google.com
+64.233.181.211	proxy.googlezip.net
+64.233.181.211	ext.google.com
+#Android↑
+#Youtube↓
+64.233.181.100	accounts.youtube.com
+64.233.181.100	youtube.com
+64.233.181.100	youtu.be
+64.233.181.100	www.youtube.com
+74.125.229.64	www.youtube-nocookie.com
+64.233.181.100	m.youtube.com
+64.233.181.100	s.youtube.com
+64.233.181.100	s2.youtube.com
+64.233.181.100	insight.youtube.com
+64.233.181.100	img.youtube.com
+74.125.229.121	apiblog.youtube.com
+74.125.229.64	gdata.youtube.com
+74.125.229.64	stage.gdata.youtube.com
+64.233.181.100	help.youtube.com
+64.233.181.100	redirector.c.youtube.com
+64.233.181.100	i.ytimg.com
+64.233.181.100	i1.ytimg.com
+64.233.181.100	i2.ytimg.com
+64.233.181.100	i3.ytimg.com
+64.233.181.100	i4.ytimg.com
+64.233.181.100	s.ytimg.com
+64.233.181.100	ytimg.l.google.com
+64.233.181.100	s0-2mdn-net.l.google.com
+74.125.229.64	youtube-ui.l.google.com
+64.233.181.106	manifest.googlevideo.com
+64.233.181.113	redirector.googlevideo.com
+#130.211.251.200	r1---sn-vgqsem7z.googlevideo.com
+#130.211.251.200	r2---sn-vgqsem7z.googlevideo.com
+#130.211.251.200	r3---sn-vgqsem7z.googlevideo.com
+#130.211.251.200	r4---sn-vgqsem7z.googlevideo.com
+#130.211.251.200	r5---sn-vgqsem7z.googlevideo.com
+#130.211.251.200	r6---sn-vgqsem7z.googlevideo.com
+#130.211.251.200	r7---sn-vgqsem7z.googlevideo.com
+#130.211.251.200	r8---sn-vgqsem7z.googlevideo.com
+#130.211.251.200	r9---sn-vgqsem7z.googlevideo.com
+#130.211.251.200	r10---sn-vgqsem7z.googlevideo.com
+#130.211.251.200	r11---sn-vgqsem7z.googlevideo.com
+#130.211.251.200	r12---sn-vgqsem7z.googlevideo.com
+#130.211.251.200	r13---sn-vgqsem7z.googlevideo.com
+#130.211.251.200	r14---sn-vgqsem7z.googlevideo.com
+#130.211.251.200	r15---sn-vgqsem7z.googlevideo.com
+#130.211.251.200	r16---sn-vgqsem7z.googlevideo.com
+#130.211.251.200	r17---sn-vgqsem7z.googlevideo.com
+#130.211.251.200	r18---sn-vgqsem7z.googlevideo.com
+#130.211.251.200	r19---sn-vgqsem7z.googlevideo.com
+#130.211.251.200	r20---sn-vgqsem7z.googlevideo.com
+#130.211.251.200	r1---sn-oguesnsz.googlevideo.com
+#130.211.251.200	r2---sn-oguesnsz.googlevideo.com
+#130.211.251.200	r3---sn-oguesnsz.googlevideo.com
+#130.211.251.200	r4---sn-oguesnsz.googlevideo.com
+#130.211.251.200	r5---sn-oguesnsz.googlevideo.com
+#130.211.251.200	r6---sn-oguesnsz.googlevideo.com
+#130.211.251.200	r7---sn-oguesnsz.googlevideo.com
+#130.211.251.200	r8---sn-oguesnsz.googlevideo.com
+#130.211.251.200	r9---sn-oguesnsz.googlevideo.com
+#130.211.251.200	r10---sn-oguesnsz.googlevideo.com
+#130.211.251.200	r11---sn-oguesnsz.googlevideo.com
+#130.211.251.200	r12---sn-oguesnsz.googlevideo.com
+#130.211.251.200	r13---sn-oguesnsz.googlevideo.com
+#130.211.251.200	r14---sn-oguesnsz.googlevideo.com
+#130.211.251.200	r15---sn-oguesnsz.googlevideo.com
+#130.211.251.200	r16---sn-oguesnsz.googlevideo.com
+#130.211.251.200	r17---sn-oguesnsz.googlevideo.com
+#130.211.251.200	r18---sn-oguesnsz.googlevideo.com
+#130.211.251.200	r19---sn-oguesnsz.googlevideo.com
+#130.211.251.200	r20---sn-oguesnsz.googlevideo.com
+#130.211.251.200	r1---sn-oguesnls.googlevideo.com
+#130.211.251.200	r2---sn-oguesnls.googlevideo.com
+#130.211.251.200	r3---sn-oguesnls.googlevideo.com
+#130.211.251.200	r4---sn-oguesnls.googlevideo.com
+#130.211.251.200	r5---sn-oguesnls.googlevideo.com
+#130.211.251.200	r6---sn-oguesnls.googlevideo.com
+#130.211.251.200	r7---sn-oguesnls.googlevideo.com
+#130.211.251.200	r8---sn-oguesnls.googlevideo.com
+#130.211.251.200	r9---sn-oguesnls.googlevideo.com
+#130.211.251.200	r10---sn-oguesnls.googlevideo.com
+#130.211.251.200	r11---sn-oguesnls.googlevideo.com
+#130.211.251.200	r12---sn-oguesnls.googlevideo.com
+#130.211.251.200	r13---sn-oguesnls.googlevideo.com
+#130.211.251.200	r14---sn-oguesnls.googlevideo.com
+#130.211.251.200	r15---sn-oguesnls.googlevideo.com
+#130.211.251.200	r16---sn-oguesnls.googlevideo.com
+#130.211.251.200	r17---sn-oguesnls.googlevideo.com
+#130.211.251.200	r18---sn-oguesnls.googlevideo.com
+#130.211.251.200	r19---sn-oguesnls.googlevideo.com
+#130.211.251.200	r20---sn-oguesnls.googlevideo.com
+#130.211.251.200	r1---sn-oguesnez.googlevideo.com
+#130.211.251.200	r2---sn-oguesnez.googlevideo.com
+#130.211.251.200	r3---sn-oguesnez.googlevideo.com
+#130.211.251.200	r4---sn-oguesnez.googlevideo.com
+#130.211.251.200	r5---sn-oguesnez.googlevideo.com
+#130.211.251.200	r6---sn-oguesnez.googlevideo.com
+#130.211.251.200	r7---sn-oguesnez.googlevideo.com
+#130.211.251.200	r8---sn-oguesnez.googlevideo.com
+#130.211.251.200	r9---sn-oguesnez.googlevideo.com
+#130.211.251.200	r10---sn-oguesnez.googlevideo.com
+#130.211.251.200	r11---sn-oguesnez.googlevideo.com
+#130.211.251.200	r12---sn-oguesnez.googlevideo.com
+#130.211.251.200	r13---sn-oguesnez.googlevideo.com
+#130.211.251.200	r14---sn-oguesnez.googlevideo.com
+#130.211.251.200	r15---sn-oguesnez.googlevideo.com
+#130.211.251.200	r16---sn-oguesnez.googlevideo.com
+#130.211.251.200	r17---sn-oguesnez.googlevideo.com
+#130.211.251.200	r18---sn-oguesnez.googlevideo.com
+#130.211.251.200	r19---sn-oguesnez.googlevideo.com
+#130.211.251.200	r20---sn-oguesnez.googlevideo.com
+#130.211.251.200	r1---sn-oguesn7s.googlevideo.com
+#130.211.251.200	r2---sn-oguesn7s.googlevideo.com
+#130.211.251.200	r3---sn-oguesn7s.googlevideo.com
+#130.211.251.200	r4---sn-oguesn7s.googlevideo.com
+#130.211.251.200	r5---sn-oguesn7s.googlevideo.com
+#130.211.251.200	r6---sn-oguesn7s.googlevideo.com
+#130.211.251.200	r7---sn-oguesn7s.googlevideo.com
+#130.211.251.200	r8---sn-oguesn7s.googlevideo.com
+#130.211.251.200	r9---sn-oguesn7s.googlevideo.com
+#130.211.251.200	r10---sn-oguesn7s.googlevideo.com
+#130.211.251.200	r11---sn-oguesn7s.googlevideo.com
+#130.211.251.200	r12---sn-oguesn7s.googlevideo.com
+#130.211.251.200	r13---sn-oguesn7s.googlevideo.com
+#130.211.251.200	r14---sn-oguesn7s.googlevideo.com
+#130.211.251.200	r15---sn-oguesn7s.googlevideo.com
+#130.211.251.200	r16---sn-oguesn7s.googlevideo.com
+#130.211.251.200	r17---sn-oguesn7s.googlevideo.com
+#130.211.251.200	r18---sn-oguesn7s.googlevideo.com
+#130.211.251.200	r19---sn-oguesn7s.googlevideo.com
+#130.211.251.200	r20---sn-oguesn7s.googlevideo.com
+#130.211.251.200	r1---sn-oguesn76.googlevideo.com
+#130.211.251.200	r2---sn-oguesn76.googlevideo.com
+#130.211.251.200	r3---sn-oguesn76.googlevideo.com
+#130.211.251.200	r4---sn-oguesn76.googlevideo.com
+#130.211.251.200	r5---sn-oguesn76.googlevideo.com
+#130.211.251.200	r6---sn-oguesn76.googlevideo.com
+#130.211.251.200	r7---sn-oguesn76.googlevideo.com
+#130.211.251.200	r8---sn-oguesn76.googlevideo.com
+#130.211.251.200	r9---sn-oguesn76.googlevideo.com
+#130.211.251.200	r10---sn-oguesn76.googlevideo.com
+#130.211.251.200	r11---sn-oguesn76.googlevideo.com
+#130.211.251.200	r12---sn-oguesn76.googlevideo.com
+#130.211.251.200	r13---sn-oguesn76.googlevideo.com
+#130.211.251.200	r14---sn-oguesn76.googlevideo.com
+#130.211.251.200	r15---sn-oguesn76.googlevideo.com
+#130.211.251.200	r16---sn-oguesn76.googlevideo.com
+#130.211.251.200	r17---sn-oguesn76.googlevideo.com
+#130.211.251.200	r18---sn-oguesn76.googlevideo.com
+#130.211.251.200	r19---sn-oguesn76.googlevideo.com
+#130.211.251.200	r20---sn-oguesn76.googlevideo.com
+#130.211.251.200	r1---sn-oguesn7y.googlevideo.com
+#130.211.251.200	r2---sn-oguesn7y.googlevideo.com
+#130.211.251.200	r3---sn-oguesn7y.googlevideo.com
+#130.211.251.200	r4---sn-oguesn7y.googlevideo.com
+#130.211.251.200	r5---sn-oguesn7y.googlevideo.com
+#130.211.251.200	r6---sn-oguesn7y.googlevideo.com
+#130.211.251.200	r7---sn-oguesn7y.googlevideo.com
+#130.211.251.200	r8---sn-oguesn7y.googlevideo.com
+#130.211.251.200	r9---sn-oguesn7y.googlevideo.com
+#130.211.251.200	r10---sn-oguesn7y.googlevideo.com
+#130.211.251.200	r11---sn-oguesn7y.googlevideo.com
+#130.211.251.200	r12---sn-oguesn7y.googlevideo.com
+#130.211.251.200	r13---sn-oguesn7y.googlevideo.com
+#130.211.251.200	r14---sn-oguesn7y.googlevideo.com
+#130.211.251.200	r15---sn-oguesn7y.googlevideo.com
+#130.211.251.200	r16---sn-oguesn7y.googlevideo.com
+#130.211.251.200	r17---sn-oguesn7y.googlevideo.com
+#130.211.251.200	r18---sn-oguesn7y.googlevideo.com
+#130.211.251.200	r19---sn-oguesn7y.googlevideo.com
+#130.211.251.200	r20---sn-oguesn7y.googlevideo.com
+#130.211.251.200	r1---sn-oguesn7d.googlevideo.com
+#130.211.251.200	r2---sn-oguesn7d.googlevideo.com
+#130.211.251.200	r3---sn-oguesn7d.googlevideo.com
+#130.211.251.200	r4---sn-oguesn7d.googlevideo.com
+#130.211.251.200	r5---sn-oguesn7d.googlevideo.com
+#130.211.251.200	r6---sn-oguesn7d.googlevideo.com
+#130.211.251.200	r7---sn-oguesn7d.googlevideo.com
+#130.211.251.200	r8---sn-oguesn7d.googlevideo.com
+#130.211.251.200	r9---sn-oguesn7d.googlevideo.com
+#130.211.251.200	r10---sn-oguesn7d.googlevideo.com
+#130.211.251.200	r11---sn-oguesn7d.googlevideo.com
+#130.211.251.200	r12---sn-oguesn7d.googlevideo.com
+#130.211.251.200	r13---sn-oguesn7d.googlevideo.com
+#130.211.251.200	r14---sn-oguesn7d.googlevideo.com
+#130.211.251.200	r15---sn-oguesn7d.googlevideo.com
+#130.211.251.200	r16---sn-oguesn7d.googlevideo.com
+#130.211.251.200	r17---sn-oguesn7d.googlevideo.com
+#130.211.251.200	r18---sn-oguesn7d.googlevideo.com
+#130.211.251.200	r19---sn-oguesn7d.googlevideo.com
+#130.211.251.200	r20---sn-oguesn7d.googlevideo.com
+#130.211.251.200	r1---sn-ni57dn7e.googlevideo.com
+#130.211.251.200	r2---sn-ni57dn7e.googlevideo.com
+#130.211.251.200	r3---sn-ni57dn7e.googlevideo.com
+#130.211.251.200	r4---sn-ni57dn7e.googlevideo.com
+#130.211.251.200	r5---sn-ni57dn7e.googlevideo.com
+#130.211.251.200	r6---sn-ni57dn7e.googlevideo.com
+#130.211.251.200	r7---sn-ni57dn7e.googlevideo.com
+#130.211.251.200	r8---sn-ni57dn7e.googlevideo.com
+#130.211.251.200	r9---sn-ni57dn7e.googlevideo.com
+#130.211.251.200	r10---sn-ni57dn7e.googlevideo.com
+#130.211.251.200	r11---sn-ni57dn7e.googlevideo.com
+#130.211.251.200	r12---sn-ni57dn7e.googlevideo.com
+#130.211.251.200	r13---sn-ni57dn7e.googlevideo.com
+#130.211.251.200	r14---sn-ni57dn7e.googlevideo.com
+#130.211.251.200	r15---sn-ni57dn7e.googlevideo.com
+#130.211.251.200	r16---sn-ni57dn7e.googlevideo.com
+#130.211.251.200	r17---sn-ni57dn7e.googlevideo.com
+#130.211.251.200	r18---sn-ni57dn7e.googlevideo.com
+#130.211.251.200	r19---sn-ni57dn7e.googlevideo.com
+#130.211.251.200	r20---sn-ni57dn7e.googlevideo.com
+#130.211.251.200	r1---sn-xjpm-4g5e.googlevideo.com
+#130.211.251.200	r2---sn-xjpm-4g5e.googlevideo.com
+#130.211.251.200	r3---sn-xjpm-4g5e.googlevideo.com
+#130.211.251.200	r4---sn-xjpm-4g5e.googlevideo.com
+#130.211.251.200	r5---sn-xjpm-4g5e.googlevideo.com
+#130.211.251.200	r6---sn-xjpm-4g5e.googlevideo.com
+#130.211.251.200	r7---sn-xjpm-4g5e.googlevideo.com
+#130.211.251.200	r8---sn-xjpm-4g5e.googlevideo.com
+#130.211.251.200	r9---sn-xjpm-4g5e.googlevideo.com
+#130.211.251.200	r10---sn-xjpm-4g5e.googlevideo.com
+#130.211.251.200	r11---sn-xjpm-4g5e.googlevideo.com
+#130.211.251.200	r12---sn-xjpm-4g5e.googlevideo.com
+#130.211.251.200	r13---sn-xjpm-4g5e.googlevideo.com
+#130.211.251.200	r14---sn-xjpm-4g5e.googlevideo.com
+#130.211.251.200	r15---sn-xjpm-4g5e.googlevideo.com
+#130.211.251.200	r16---sn-xjpm-4g5e.googlevideo.com
+#130.211.251.200	r17---sn-xjpm-4g5e.googlevideo.com
+#130.211.251.200	r18---sn-xjpm-4g5e.googlevideo.com
+#130.211.251.200	r19---sn-xjpm-4g5e.googlevideo.com
+#130.211.251.200	r20---sn-xjpm-4g5e.googlevideo.com
+#130.211.251.200	r1---sn-x1x7snee.googlevideo.com
+#130.211.251.200	r2---sn-x1x7snee.googlevideo.com
+#130.211.251.200	r3---sn-x1x7snee.googlevideo.com
+#130.211.251.200	r4---sn-x1x7snee.googlevideo.com
+#130.211.251.200	r5---sn-x1x7snee.googlevideo.com
+#130.211.251.200	r6---sn-x1x7snee.googlevideo.com
+#130.211.251.200	r7---sn-x1x7snee.googlevideo.com
+#130.211.251.200	r8---sn-x1x7snee.googlevideo.com
+#130.211.251.200	r9---sn-x1x7snee.googlevideo.com
+#130.211.251.200	r10---sn-x1x7snee.googlevideo.com
+#130.211.251.200	r11---sn-x1x7snee.googlevideo.com
+#130.211.251.200	r12---sn-x1x7snee.googlevideo.com
+#130.211.251.200	r13---sn-x1x7snee.googlevideo.com
+#130.211.251.200	r14---sn-x1x7snee.googlevideo.com
+#130.211.251.200	r15---sn-x1x7snee.googlevideo.com
+#130.211.251.200	r16---sn-x1x7snee.googlevideo.com
+#130.211.251.200	r17---sn-x1x7snee.googlevideo.com
+#130.211.251.200	r18---sn-x1x7snee.googlevideo.com
+#130.211.251.200	r19---sn-x1x7snee.googlevideo.com
+#130.211.251.200	r20---sn-x1x7snee.googlevideo.com
+#130.211.251.200	r1---sn-ab5e6m7k.googlevideo.com
+#130.211.251.200	r2---sn-ab5e6m7k.googlevideo.com
+#130.211.251.200	r3---sn-ab5e6m7k.googlevideo.com
+#130.211.251.200	r4---sn-ab5e6m7k.googlevideo.com
+#130.211.251.200	r5---sn-ab5e6m7k.googlevideo.com
+#130.211.251.200	r6---sn-ab5e6m7k.googlevideo.com
+#130.211.251.200	r7---sn-ab5e6m7k.googlevideo.com
+#130.211.251.200	r8---sn-ab5e6m7k.googlevideo.com
+#130.211.251.200	r9---sn-ab5e6m7k.googlevideo.com
+#130.211.251.200	r10---sn-ab5e6m7k.googlevideo.com
+#130.211.251.200	r11---sn-ab5e6m7k.googlevideo.com
+#130.211.251.200	r12---sn-ab5e6m7k.googlevideo.com
+#130.211.251.200	r13---sn-ab5e6m7k.googlevideo.com
+#130.211.251.200	r14---sn-ab5e6m7k.googlevideo.com
+#130.211.251.200	r15---sn-ab5e6m7k.googlevideo.com
+#130.211.251.200	r16---sn-ab5e6m7k.googlevideo.com
+#130.211.251.200	r17---sn-ab5e6m7k.googlevideo.com
+#130.211.251.200	r18---sn-ab5e6m7k.googlevideo.com
+#130.211.251.200	r19---sn-ab5e6m7k.googlevideo.com
+#130.211.251.200	r20---sn-ab5e6m7k.googlevideo.com
+#130.211.251.200	r1---sn-hp57zn7k.googlevideo.com
+#130.211.251.200	r2---sn-hp57zn7k.googlevideo.com
+#130.211.251.200	r3---sn-hp57zn7k.googlevideo.com
+#130.211.251.200	r4---sn-hp57zn7k.googlevideo.com
+#130.211.251.200	r5---sn-hp57zn7k.googlevideo.com
+#130.211.251.200	r6---sn-hp57zn7k.googlevideo.com
+#130.211.251.200	r7---sn-hp57zn7k.googlevideo.com
+#130.211.251.200	r8---sn-hp57zn7k.googlevideo.com
+#130.211.251.200	r9---sn-hp57zn7k.googlevideo.com
+#130.211.251.200	r10---sn-hp57zn7k.googlevideo.com
+#130.211.251.200	r11---sn-hp57zn7k.googlevideo.com
+#130.211.251.200	r12---sn-hp57zn7k.googlevideo.com
+#130.211.251.200	r13---sn-hp57zn7k.googlevideo.com
+#130.211.251.200	r14---sn-hp57zn7k.googlevideo.com
+#130.211.251.200	r15---sn-hp57zn7k.googlevideo.com
+#130.211.251.200	r16---sn-hp57zn7k.googlevideo.com
+#130.211.251.200	r17---sn-hp57zn7k.googlevideo.com
+#130.211.251.200	r18---sn-hp57zn7k.googlevideo.com
+#130.211.251.200	r19---sn-hp57zn7k.googlevideo.com
+#130.211.251.200	r20---sn-hp57zn7k.googlevideo.com
+#130.211.251.200	r1---sn-25g7sm76.googlevideo.com
+#130.211.251.200	r2---sn-25g7sm76.googlevideo.com
+#130.211.251.200	r3---sn-25g7sm76.googlevideo.com
+#130.211.251.200	r4---sn-25g7sm76.googlevideo.com
+#130.211.251.200	r5---sn-25g7sm76.googlevideo.com
+#130.211.251.200	r6---sn-25g7sm76.googlevideo.com
+#130.211.251.200	r7---sn-25g7sm76.googlevideo.com
+#130.211.251.200	r8---sn-25g7sm76.googlevideo.com
+#130.211.251.200	r9---sn-25g7sm76.googlevideo.com
+#130.211.251.200	r10---sn-25g7sm76.googlevideo.com
+#130.211.251.200	r11---sn-25g7sm76.googlevideo.com
+#130.211.251.200	r12---sn-25g7sm76.googlevideo.com
+#130.211.251.200	r13---sn-25g7sm76.googlevideo.com
+#130.211.251.200	r14---sn-25g7sm76.googlevideo.com
+#130.211.251.200	r15---sn-25g7sm76.googlevideo.com
+#130.211.251.200	r16---sn-25g7sm76.googlevideo.com
+#130.211.251.200	r17---sn-25g7sm76.googlevideo.com
+#130.211.251.200	r18---sn-25g7sm76.googlevideo.com
+#130.211.251.200	r19---sn-25g7sm76.googlevideo.com
+#130.211.251.200	r20---sn-25g7sm76.googlevideo.com
+#130.211.251.200	r1---sn-25g7sm7d.googlevideo.com
+#130.211.251.200	r2---sn-25g7sm7d.googlevideo.com
+#130.211.251.200	r3---sn-25g7sm7d.googlevideo.com
+#130.211.251.200	r4---sn-25g7sm7d.googlevideo.com
+#130.211.251.200	r5---sn-25g7sm7d.googlevideo.com
+#130.211.251.200	r6---sn-25g7sm7d.googlevideo.com
+#130.211.251.200	r7---sn-25g7sm7d.googlevideo.com
+#130.211.251.200	r8---sn-25g7sm7d.googlevideo.com
+#130.211.251.200	r9---sn-25g7sm7d.googlevideo.com
+#130.211.251.200	r10---sn-25g7sm7d.googlevideo.com
+#130.211.251.200	r11---sn-25g7sm7d.googlevideo.com
+#130.211.251.200	r12---sn-25g7sm7d.googlevideo.com
+#130.211.251.200	r13---sn-25g7sm7d.googlevideo.com
+#130.211.251.200	r14---sn-25g7sm7d.googlevideo.com
+#130.211.251.200	r15---sn-25g7sm7d.googlevideo.com
+#130.211.251.200	r16---sn-25g7sm7d.googlevideo.com
+#130.211.251.200	r17---sn-25g7sm7d.googlevideo.com
+#130.211.251.200	r18---sn-25g7sm7d.googlevideo.com
+#130.211.251.200	r19---sn-25g7sm7d.googlevideo.com
+#130.211.251.200	r20---sn-25g7sm7d.googlevideo.com
+#130.211.251.200	r1---sn-25g7sm7e.googlevideo.com
+#130.211.251.200	r2---sn-25g7sm7e.googlevideo.com
+#130.211.251.200	r3---sn-25g7sm7e.googlevideo.com
+#130.211.251.200	r4---sn-25g7sm7e.googlevideo.com
+#130.211.251.200	r5---sn-25g7sm7e.googlevideo.com
+#130.211.251.200	r6---sn-25g7sm7e.googlevideo.com
+#130.211.251.200	r7---sn-25g7sm7e.googlevideo.com
+#130.211.251.200	r8---sn-25g7sm7e.googlevideo.com
+#130.211.251.200	r9---sn-25g7sm7e.googlevideo.com
+#130.211.251.200	r10---sn-25g7sm7e.googlevideo.com
+#130.211.251.200	r11---sn-25g7sm7e.googlevideo.com
+#130.211.251.200	r12---sn-25g7sm7e.googlevideo.com
+#130.211.251.200	r13---sn-25g7sm7e.googlevideo.com
+#130.211.251.200	r14---sn-25g7sm7e.googlevideo.com
+#130.211.251.200	r15---sn-25g7sm7e.googlevideo.com
+#130.211.251.200	r16---sn-25g7sm7e.googlevideo.com
+#130.211.251.200	r17---sn-25g7sm7e.googlevideo.com
+#130.211.251.200	r18---sn-25g7sm7e.googlevideo.com
+#130.211.251.200	r19---sn-25g7sm7e.googlevideo.com
+#130.211.251.200	r20---sn-25g7sm7e.googlevideo.com
+#130.211.251.200	r1---sn-25g7sm7k.googlevideo.com
+#130.211.251.200	r2---sn-25g7sm7k.googlevideo.com
+#130.211.251.200	r3---sn-25g7sm7k.googlevideo.com
+#130.211.251.200	r4---sn-25g7sm7k.googlevideo.com
+#130.211.251.200	r5---sn-25g7sm7k.googlevideo.com
+#130.211.251.200	r6---sn-25g7sm7k.googlevideo.com
+#130.211.251.200	r7---sn-25g7sm7k.googlevideo.com
+#130.211.251.200	r8---sn-25g7sm7k.googlevideo.com
+#130.211.251.200	r9---sn-25g7sm7k.googlevideo.com
+#130.211.251.200	r10---sn-25g7sm7k.googlevideo.com
+#130.211.251.200	r11---sn-25g7sm7k.googlevideo.com
+#130.211.251.200	r12---sn-25g7sm7k.googlevideo.com
+#130.211.251.200	r13---sn-25g7sm7k.googlevideo.com
+#130.211.251.200	r14---sn-25g7sm7k.googlevideo.com
+#130.211.251.200	r15---sn-25g7sm7k.googlevideo.com
+#130.211.251.200	r16---sn-25g7sm7k.googlevideo.com
+#130.211.251.200	r17---sn-25g7sm7k.googlevideo.com
+#130.211.251.200	r18---sn-25g7sm7k.googlevideo.com
+#130.211.251.200	r19---sn-25g7sm7k.googlevideo.com
+#130.211.251.200	r20---sn-25g7sm7k.googlevideo.com
+#130.211.251.200	r1---sn-25g7sm7l.googlevideo.com
+#130.211.251.200	r2---sn-25g7sm7l.googlevideo.com
+#130.211.251.200	r3---sn-25g7sm7l.googlevideo.com
+#130.211.251.200	r4---sn-25g7sm7l.googlevideo.com
+#130.211.251.200	r5---sn-25g7sm7l.googlevideo.com
+#130.211.251.200	r6---sn-25g7sm7l.googlevideo.com
+#130.211.251.200	r7---sn-25g7sm7l.googlevideo.com
+#130.211.251.200	r8---sn-25g7sm7l.googlevideo.com
+#130.211.251.200	r9---sn-25g7sm7l.googlevideo.com
+#130.211.251.200	r10---sn-25g7sm7l.googlevideo.com
+#130.211.251.200	r11---sn-25g7sm7l.googlevideo.com
+#130.211.251.200	r12---sn-25g7sm7l.googlevideo.com
+#130.211.251.200	r13---sn-25g7sm7l.googlevideo.com
+#130.211.251.200	r14---sn-25g7sm7l.googlevideo.com
+#130.211.251.200	r15---sn-25g7sm7l.googlevideo.com
+#130.211.251.200	r16---sn-25g7sm7l.googlevideo.com
+#130.211.251.200	r17---sn-25g7sm7l.googlevideo.com
+#130.211.251.200	r18---sn-25g7sm7l.googlevideo.com
+#130.211.251.200	r19---sn-25g7sm7l.googlevideo.com
+#130.211.251.200	r20---sn-25g7sm7l.googlevideo.com
+#130.211.251.200	r1---sn-25g7sm7r.googlevideo.com
+#130.211.251.200	r2---sn-25g7sm7r.googlevideo.com
+#130.211.251.200	r3---sn-25g7sm7r.googlevideo.com
+#130.211.251.200	r4---sn-25g7sm7r.googlevideo.com
+#130.211.251.200	r5---sn-25g7sm7r.googlevideo.com
+#130.211.251.200	r6---sn-25g7sm7r.googlevideo.com
+#130.211.251.200	r7---sn-25g7sm7r.googlevideo.com
+#130.211.251.200	r8---sn-25g7sm7r.googlevideo.com
+#130.211.251.200	r9---sn-25g7sm7r.googlevideo.com
+#130.211.251.200	r10---sn-25g7sm7r.googlevideo.com
+#130.211.251.200	r11---sn-25g7sm7r.googlevideo.com
+#130.211.251.200	r12---sn-25g7sm7r.googlevideo.com
+#130.211.251.200	r13---sn-25g7sm7r.googlevideo.com
+#130.211.251.200	r14---sn-25g7sm7r.googlevideo.com
+#130.211.251.200	r15---sn-25g7sm7r.googlevideo.com
+#130.211.251.200	r16---sn-25g7sm7r.googlevideo.com
+#130.211.251.200	r17---sn-25g7sm7r.googlevideo.com
+#130.211.251.200	r18---sn-25g7sm7r.googlevideo.com
+#130.211.251.200	r19---sn-25g7sm7r.googlevideo.com
+#130.211.251.200	r20---sn-25g7sm7r.googlevideo.com
+#130.211.251.200	r1---sn-25g7sm7s.googlevideo.com
+#130.211.251.200	r2---sn-25g7sm7s.googlevideo.com
+#130.211.251.200	r3---sn-25g7sm7s.googlevideo.com
+#130.211.251.200	r4---sn-25g7sm7s.googlevideo.com
+#130.211.251.200	r5---sn-25g7sm7s.googlevideo.com
+#130.211.251.200	r6---sn-25g7sm7s.googlevideo.com
+#130.211.251.200	r7---sn-25g7sm7s.googlevideo.com
+#130.211.251.200	r8---sn-25g7sm7s.googlevideo.com
+#130.211.251.200	r9---sn-25g7sm7s.googlevideo.com
+#130.211.251.200	r10---sn-25g7sm7s.googlevideo.com
+#130.211.251.200	r11---sn-25g7sm7s.googlevideo.com
+#130.211.251.200	r12---sn-25g7sm7s.googlevideo.com
+#130.211.251.200	r13---sn-25g7sm7s.googlevideo.com
+#130.211.251.200	r14---sn-25g7sm7s.googlevideo.com
+#130.211.251.200	r15---sn-25g7sm7s.googlevideo.com
+#130.211.251.200	r16---sn-25g7sm7s.googlevideo.com
+#130.211.251.200	r17---sn-25g7sm7s.googlevideo.com
+#130.211.251.200	r18---sn-25g7sm7s.googlevideo.com
+#130.211.251.200	r19---sn-25g7sm7s.googlevideo.com
+#130.211.251.200	r20---sn-25g7sm7s.googlevideo.com
+#130.211.251.200	r1---sn-25g7sm7z.googlevideo.com
+#130.211.251.200	r2---sn-25g7sm7z.googlevideo.com
+#130.211.251.200	r3---sn-25g7sm7z.googlevideo.com
+#130.211.251.200	r4---sn-25g7sm7z.googlevideo.com
+#130.211.251.200	r5---sn-25g7sm7z.googlevideo.com
+#130.211.251.200	r6---sn-25g7sm7z.googlevideo.com
+#130.211.251.200	r7---sn-25g7sm7z.googlevideo.com
+#130.211.251.200	r8---sn-25g7sm7z.googlevideo.com
+#130.211.251.200	r9---sn-25g7sm7z.googlevideo.com
+#130.211.251.200	r10---sn-25g7sm7z.googlevideo.com
+#130.211.251.200	r11---sn-25g7sm7z.googlevideo.com
+#130.211.251.200	r12---sn-25g7sm7z.googlevideo.com
+#130.211.251.200	r13---sn-25g7sm7z.googlevideo.com
+#130.211.251.200	r14---sn-25g7sm7z.googlevideo.com
+#130.211.251.200	r15---sn-25g7sm7z.googlevideo.com
+#130.211.251.200	r16---sn-25g7sm7z.googlevideo.com
+#130.211.251.200	r17---sn-25g7sm7z.googlevideo.com
+#130.211.251.200	r18---sn-25g7sm7z.googlevideo.com
+#130.211.251.200	r19---sn-25g7sm7z.googlevideo.com
+#130.211.251.200	r20---sn-25g7sm7z.googlevideo.com
+#130.211.251.200	r1---sn-4g57km76.googlevideo.com
+#130.211.251.200	r2---sn-4g57km76.googlevideo.com
+#130.211.251.200	r3---sn-4g57km76.googlevideo.com
+#130.211.251.200	r4---sn-4g57km76.googlevideo.com
+#130.211.251.200	r5---sn-4g57km76.googlevideo.com
+#130.211.251.200	r6---sn-4g57km76.googlevideo.com
+#130.211.251.200	r7---sn-4g57km76.googlevideo.com
+#130.211.251.200	r8---sn-4g57km76.googlevideo.com
+#130.211.251.200	r9---sn-4g57km76.googlevideo.com
+#130.211.251.200	r10---sn-4g57km76.googlevideo.com
+#130.211.251.200	r11---sn-4g57km76.googlevideo.com
+#130.211.251.200	r12---sn-4g57km76.googlevideo.com
+#130.211.251.200	r13---sn-4g57km76.googlevideo.com
+#130.211.251.200	r14---sn-4g57km76.googlevideo.com
+#130.211.251.200	r15---sn-4g57km76.googlevideo.com
+#130.211.251.200	r16---sn-4g57km76.googlevideo.com
+#130.211.251.200	r17---sn-4g57km76.googlevideo.com
+#130.211.251.200	r18---sn-4g57km76.googlevideo.com
+#130.211.251.200	r19---sn-4g57km76.googlevideo.com
+#130.211.251.200	r20---sn-4g57km76.googlevideo.com
+#130.211.251.200	r1---sn-4g57kndy.googlevideo.com
+#130.211.251.200	r2---sn-4g57kndy.googlevideo.com
+#130.211.251.200	r3---sn-4g57kndy.googlevideo.com
+#130.211.251.200	r4---sn-4g57kndy.googlevideo.com
+#130.211.251.200	r5---sn-4g57kndy.googlevideo.com
+#130.211.251.200	r6---sn-4g57kndy.googlevideo.com
+#130.211.251.200	r7---sn-4g57kndy.googlevideo.com
+#130.211.251.200	r8---sn-4g57kndy.googlevideo.com
+#130.211.251.200	r9---sn-4g57kndy.googlevideo.com
+#130.211.251.200	r10---sn-4g57kndy.googlevideo.com
+#130.211.251.200	r11---sn-4g57kndy.googlevideo.com
+#130.211.251.200	r12---sn-4g57kndy.googlevideo.com
+#130.211.251.200	r13---sn-4g57kndy.googlevideo.com
+#130.211.251.200	r14---sn-4g57kndy.googlevideo.com
+#130.211.251.200	r15---sn-4g57kndy.googlevideo.com
+#130.211.251.200	r16---sn-4g57kndy.googlevideo.com
+#130.211.251.200	r17---sn-4g57kndy.googlevideo.com
+#130.211.251.200	r18---sn-4g57kndy.googlevideo.com
+#130.211.251.200	r19---sn-4g57kndy.googlevideo.com
+#130.211.251.200	r20---sn-4g57kndy.googlevideo.com
+#130.211.251.200	r1---sn-a5m7lm76.googlevideo.com
+#130.211.251.200	r2---sn-a5m7lm76.googlevideo.com
+#130.211.251.200	r3---sn-a5m7lm76.googlevideo.com
+#130.211.251.200	r4---sn-a5m7lm76.googlevideo.com
+#130.211.251.200	r5---sn-a5m7lm76.googlevideo.com
+#130.211.251.200	r6---sn-a5m7lm76.googlevideo.com
+#130.211.251.200	r7---sn-a5m7lm76.googlevideo.com
+#130.211.251.200	r8---sn-a5m7lm76.googlevideo.com
+#130.211.251.200	r9---sn-a5m7lm76.googlevideo.com
+#130.211.251.200	r10---sn-a5m7lm76.googlevideo.com
+#130.211.251.200	r11---sn-a5m7lm76.googlevideo.com
+#130.211.251.200	r12---sn-a5m7lm76.googlevideo.com
+#130.211.251.200	r13---sn-a5m7lm76.googlevideo.com
+#130.211.251.200	r14---sn-a5m7lm76.googlevideo.com
+#130.211.251.200	r15---sn-a5m7lm76.googlevideo.com
+#130.211.251.200	r16---sn-a5m7lm76.googlevideo.com
+#130.211.251.200	r17---sn-a5m7lm76.googlevideo.com
+#130.211.251.200	r18---sn-a5m7lm76.googlevideo.com
+#130.211.251.200	r19---sn-a5m7lm76.googlevideo.com
+#130.211.251.200	r20---sn-a5m7lm76.googlevideo.com
+#130.211.251.200	r1---sn-a5m7lm7d.googlevideo.com
+#130.211.251.200	r2---sn-a5m7lm7d.googlevideo.com
+#130.211.251.200	r3---sn-a5m7lm7d.googlevideo.com
+#130.211.251.200	r4---sn-a5m7lm7d.googlevideo.com
+#130.211.251.200	r5---sn-a5m7lm7d.googlevideo.com
+#130.211.251.200	r6---sn-a5m7lm7d.googlevideo.com
+#130.211.251.200	r7---sn-a5m7lm7d.googlevideo.com
+#130.211.251.200	r8---sn-a5m7lm7d.googlevideo.com
+#130.211.251.200	r9---sn-a5m7lm7d.googlevideo.com
+#130.211.251.200	r10---sn-a5m7lm7d.googlevideo.com
+#130.211.251.200	r11---sn-a5m7lm7d.googlevideo.com
+#130.211.251.200	r12---sn-a5m7lm7d.googlevideo.com
+#130.211.251.200	r13---sn-a5m7lm7d.googlevideo.com
+#130.211.251.200	r14---sn-a5m7lm7d.googlevideo.com
+#130.211.251.200	r15---sn-a5m7lm7d.googlevideo.com
+#130.211.251.200	r16---sn-a5m7lm7d.googlevideo.com
+#130.211.251.200	r17---sn-a5m7lm7d.googlevideo.com
+#130.211.251.200	r18---sn-a5m7lm7d.googlevideo.com
+#130.211.251.200	r19---sn-a5m7lm7d.googlevideo.com
+#130.211.251.200	r20---sn-a5m7lm7d.googlevideo.com
+#130.211.251.200	r1---sn-a5m7lm7e.googlevideo.com
+#130.211.251.200	r2---sn-a5m7lm7e.googlevideo.com
+#130.211.251.200	r3---sn-a5m7lm7e.googlevideo.com
+#130.211.251.200	r4---sn-a5m7lm7e.googlevideo.com
+#130.211.251.200	r5---sn-a5m7lm7e.googlevideo.com
+#130.211.251.200	r6---sn-a5m7lm7e.googlevideo.com
+#130.211.251.200	r7---sn-a5m7lm7e.googlevideo.com
+#130.211.251.200	r8---sn-a5m7lm7e.googlevideo.com
+#130.211.251.200	r9---sn-a5m7lm7e.googlevideo.com
+#130.211.251.200	r10---sn-a5m7lm7e.googlevideo.com
+#130.211.251.200	r11---sn-a5m7lm7e.googlevideo.com
+#130.211.251.200	r12---sn-a5m7lm7e.googlevideo.com
+#130.211.251.200	r13---sn-a5m7lm7e.googlevideo.com
+#130.211.251.200	r14---sn-a5m7lm7e.googlevideo.com
+#130.211.251.200	r15---sn-a5m7lm7e.googlevideo.com
+#130.211.251.200	r16---sn-a5m7lm7e.googlevideo.com
+#130.211.251.200	r
