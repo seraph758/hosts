@@ -1503,6 +1503,7 @@
 64.233.161.84	accounts.google.com
 74.125.230.238	uploads.code.google.com
 74.125.230.238	ajax.googleapis.com
+74.125.230.238       mclients.googleapis.com
 74.125.230.238	android.l.google.com
 74.125.230.238	a-oz-opensocial.googleusercontent.com
 74.125.230.238	apis.google.com
@@ -7937,7 +7938,7 @@
 127.0.0.1	y.admob.com
 127.0.0.1	z.admob.com
 127.0.0.1	ads.mopub.com
-127.0.0.1	dock.inmobi.com
+127.0.0.1	dock.inmobi.commclients.googleapis.com
 127.0.0.1	e-ltvp.inmobi.com
 127.0.0.1	i.w.inmobi.com
 127.0.0.1	f1.p0y.com
